@@ -1,5 +1,0 @@
-backup running
-Traceback (most recent call last):
-  File "backup.py", line 21, in <module>
-    currentTime = now.strftime("%H:%M:%S")
-KeyboardInterrupt
