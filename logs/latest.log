@@ -1,105 +1,98 @@
-[04:13:30] [main/INFO]: Loading for game Minecraft 1.16.4
-[04:13:32] [main/WARN]: Warnings were found! 
- - Mod 'AntiGhost' (antighost) recommends any version of mod modmenu, which is missing!
-	 - You must install any version of modmenu.
- - Mod 'AntiGhost' (antighost) recommends version 1.1.7 or later of mod modupdater, which is missing!
-	 - You must install version 1.1.7 or later of modupdater.
-[04:13:32] [main/INFO]: [FabricLoader] Loading 56 mods: fabric-renderer-api-v1@0.3.3+6a2618f53a, fabric-keybindings-v0@0.2.0+6a2618f53a, fabricloader@0.10.8, crowdin-translate@1.2, automated_crafting@1.3.13+MC1.16.2-1.16.4, fabric-structure-api-v1@1.1.1+f1d8af063a, fabric-containers-v0@0.1.8+6a2618f53a, lithium@0.6.0, fabric-object-builder-api-v1@1.9.2+6a2618f53a, cotton-client-commands@1.0.1+1.16-rc1, fabric-game-rule-api-v1@1.0.3+a4467d2a3a, fabric-api-base@0.2.0+ab87788d3a, fabric-rendering-data-attachment-v1@0.1.4+6a2618f53a, fabric-textures-v0@1.0.5+6a2618f53a, fabric-rendering-fluids-v1@0.1.12+6a2618f53a, litematica@0.0.0-dev.20201103.184101, fabric-blockrenderlayer-v1@1.1.4+6a2618f53a, fabric-lifecycle-events-v1@1.2.0+6a2618f53a, fabric-renderer-registries-v1@2.2.0+6a2618f53a, carpet-extra@1.4.16, fabric-loot-tables-v1@1.0.1+6a2618f53a, fabric@0.26.3+1.16, carpet@1.4.19, fabric-particles-v1@0.2.2+6a2618f53a, fabric-networking-v0@0.1.10+6a2618f53a, fabric-networking-blockentity-v0@0.2.5+6a2618f53a, minecraft@1.16.4, fabric-screen-handler-api-v1@1.1.0+6a2618f53a, jankson@3.0.1+j1.2.0, cloth-basic-math@0.5.1, fabric-command-api-v1@1.0.9+6a2618f53a, fabric-tool-attribute-api-v1@1.2.5+6a2618f53a, fabric-renderer-indigo@0.4.3+6a2618f53a, fabric-events-interaction-v0@0.4.1+6a2618f53a, fabric-crash-report-info-v1@0.1.2+b7f9825d3a, fabric-item-api-v1@1.2.0+6a2618f53a, libgui@3.2.1+1.16.3, fabric-rendering-v0@1.1.1+6a2618f53a, fabric-key-binding-api-v1@1.0.1+730711c63a, fabric-rendering-v1@1.4.0+6a2618f53a, cloth-config2@4.8.2, autoconfig1u@3.3.1, fabric-resource-loader-v0@0.3.2+1944f3e03a, malilib@0.10.0-dev.21+arne.2, antighost@1.16.4-fabric0.25.1-1.1.3, fabric-content-registries-v0@0.1.9+6a2618f53a, fabric-tag-extensions-v0@1.0.3+6a2618f53a, fabric-biome-api-v1@3.1.0+2e23b97c3a, fabric-commands-v0@0.2.0+6a2618f53a, fabric-registry-sync-v0@0.7.1+285766753a, fabric-mining-levels-v0@0.1.2+6a2618f53a, fabric-events-lifecycle-v0@0.2.0+6a2618f53a, fabric-models-v0@0.1.1+6a2618f53a, fabric-item-groups-v0@0.2.1+6a2618f53a, fabric-object-builders-v0@0.7.1+6a2618f53a, lithium-api@0.6.0
-[04:13:32] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/home/edwardxie121/ggmc/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
-[04:13:36] [main/WARN]: @Mixin target net/minecraft/class_3898$class_3208 is public in fabric-networking-[04:13:49] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[04:13:52] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[04:13:52] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[04:13:52] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[04:13:52] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[04:13:52] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[04:13:53] [main/INFO]: Reloading ResourceManager: Default, Fabric Tool Attribute API (v1), Automated Crafting
-[04:13:54] [Worker-Main-2/INFO]: Loaded 7 recipes
-[04:13:55] [Worker-Main-2/INFO]: Loaded 927 advancements
-[04:13:57] [main/INFO]: Applied 0 biome modifications to 0 of 79 new biomes in 11.13 ms
-[04:13:57] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[04:13:57] [Server thread/INFO]: Loading properties
-[04:13:57] [Server thread/INFO]: Default game type: SURVIVAL
-[04:13:57] [Server thread/INFO]: Generating keypair
-[04:13:57] [Server console handler/ERROR]: Exception handling console input
-java.io.IOException: Bad file descriptor
-	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_275]
-	at java.io.FileInputStream.read(FileInputStream.java:255) ~[?:1.8.0_275]
-	at java.io.BufferedInputStream.read1(BufferedInputStream.java:284) ~[?:1.8.0_275]
-	at java.io.BufferedInputStream.read(BufferedInputStream.java:345) ~[?:1.8.0_275]
-	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284) ~[?:1.8.0_275]
-	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326) ~[?:1.8.0_275]
-	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:1.8.0_275]
-	at java.io.InputStreamReader.read(InputStreamReader.java:184) ~[?:1.8.0_275]
-	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:1.8.0_275]
-	at java.io.BufferedReader.readLine(BufferedReader.java:324) ~[?:1.8.0_275]
-	at java.io.BufferedReader.readLine(BufferedReader.java:389) ~[?:1.8.0_275]
-	at net.minecraft.class_3176$1.run(class_3176.java:95) [intermediary-server.jar:?]
-[04:13:58] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:13:58] [Server thread/INFO]: Using epoll channel type
-[04:13:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04:13:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[04:13:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04:13:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[04:13:59] [Server thread/INFO]: Preparing level "world"
-[04:13:59] [Server thread/INFO]: [CM]: loaded setting silverFishDropGravel as true from carpet.conf
-[04:13:59] [Server thread/INFO]: [CM]: loaded setting carpets as false from carpet.conf
-[04:13:59] [Server thread/INFO]: [CM]: loaded setting combineXPOrbs as true from carpet.conf
-[04:13:59] [Server thread/INFO]: [CM]: loaded setting commandLog as true from carpet.conf
-[04:13:59] [Server thread/INFO]: [CM]: loaded setting commandPerimeterInfo as true from carpet.conf
-[04:13:59] [Server thread/INFO]: [CM]: loaded setting tntPrimerMomentumRemoved as true from carpet.conf
-[04:13:59] [Server thread/INFO]: [CM]: loaded setting xpNoCooldown as true from carpet.conf
-[04:13:59] [Server thread/INFO]: [CM]: loaded setting commandTrackAI as false from carpet.conf
-[04:13:59] [Server thread/INFO]: [CM]: loaded setting ctrlQCraftingFix as true from carpet.conf
-[04:13:59] [Server thread/INFO]: [CM]: loaded setting fogOff as false from carpet.conf
-[04:13:59] [Server thread/INFO]: [CM]: loaded setting commandDistance as false from carpet.conf
-[04:13:59] [Server thread/INFO]: [CM]: loaded setting fastRedstoneDust as true from carpet.conf
-[04:13:59] [Server thread/INFO]: [CM]: loaded setting fillLimit as 1000000 from carpet.conf
-[04:13:59] [Server thread/INFO]: [CM]: loaded setting antiCheatDisabled as true from carpet.conf
-[04:13:59] [Server thread/INFO]: [CM]: loaded setting commandSpawn as false from carpet.conf
-[04:13:59] [Server thread/INFO]: [CM]: loaded setting stackableShulkerBoxes as false from carpet.conf
-[04:13:59] [Server thread/INFO]: [CM]: loaded setting shulkerSpawningInEndCities as false from carpet.conf
-[04:13:59] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
-[04:13:59] [Server thread/INFO]: [CM]: loaded setting clericsFarmWarts as true from carpet.conf
-[04:13:59] [Server thread/INFO]: [CM]: loaded setting smoothClientAnimations as true from carpet.conf
-[04:13:59] [Server thread/INFO]: [CM]: loaded setting autoCraftingDropper as false from carpet.conf
-[04:13:59] [Server thread/INFO]: [CM]: loaded setting commandTick as false from carpet.conf
-[04:13:59] [Server thread/INFO]: [CM]: loaded setting commandDraw as false from carpet.conf
-[04:13:59] [Server thread/INFO]: [CM]: loaded setting commandScript as false from carpet.conf
-[04:13:59] [Server thread/INFO]: [CM]: loaded setting defaultLoggers as mobcaps,tps from carpet.conf
-[04:13:59] [Server thread/INFO]: [CM]: loaded setting optimizedTNT as true from carpet.conf
-[04:13:59] [Server thread/INFO]: [CM]: loaded setting commandInfo as false from carpet.conf
-[04:13:59] [Server thread/INFO]: [CM]: loaded setting flippinCactus as true from carpet.conf
-[04:13:59] [Server thread/INFO]: [CM]: loaded setting lagFreeSpawning as true from carpet.conf
-[04:13:59] [Server thread/INFO]: [CM]: loaded setting viewDistance as 0 from carpet.conf
-[04:13:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:14:02] [Server thread/INFO]: Preparing spawn area: 0%
-[04:14:02] [Server thread/INFO]: Preparing spawn area: 0%
-[04:14:02] [Server thread/INFO]: Preparing spawn area: 0%
-[04:14:02] [Server thread/INFO]: Preparing spawn area: 0%
-[04:14:02] [Server thread/INFO]: Preparing spawn area: 0%
-[04:14:02] [Server thread/INFO]: Preparing spawn area: 0%
-[04:14:02] [Server thread/INFO]: Preparing spawn area: 0%
-[04:14:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[04:14:09] [Worker-Main-3/INFO]: Preparing spawn area: 58%
-[04:14:09] [Server thread/INFO]: Preparing spawn area: 58%
-[04:14:09] [Server thread/INFO]: Preparing spawn area: 58%
-[04:14:09] [Server thread/INFO]: Preparing spawn area: 58%
-[04:14:09] [Server thread/INFO]: Preparing spawn area: 58%
-[04:14:09] [Server thread/INFO]: Preparing spawn area: 58%
-[04:14:09] [Worker-Main-3/INFO]: Preparing spawn area: 58%
-[04:14:09] [Server thread/INFO]: Preparing spawn area: 58%
-[04:14:09] [Server thread/INFO]: Preparing spawn area: 58%
-[04:14:09] [Server thread/INFO]: Preparing spawn area: 58%
-[04:14:09] [Server thread/INFO]: Preparing spawn area: 58%
-[04:14:09] [Server thread/INFO]: Preparing spawn area: 58%
-[04:14:09] [Worker-Main-3/INFO]: Preparing spawn area: 95%
-[04:14:10] [Worker-Main-3/INFO]: Preparing spawn area: 95%
-[04:14:10] [Worker-Main-3/INFO]: Preparing spawn area: 95%
-[04:14:11] [Worker-Main-3/INFO]: Preparing spawn area: 95%
-[04:14:11] [Worker-Main-3/INFO]: Preparing spawn area: 95%
-[04:14:12] [Server thread/INFO]: Preparing spawn area: 95%
-[04:14:12] [Worker-Main-3/INFO]: Preparing spawn area: 97%
-[04:14:13] [Server thread/INFO]: Preparing spawn area: 97%
-[04:14:13] [Worker-Main-3/INFO]: Preparing spawn area: 98%
-[04:14:14] [Server thread/INFO]: Time elapsed: 14704 ms
-[04:14:14] [Server thread/INFO]: Done (15.545s)! For help, type "help"
+[00:13:21] [Server thread/INFO]: CeramicBlue was shot by Skeleton
+[00:13:33] [Server thread/INFO]: Skeleton[local] logged in with entity id 34983 at (-91.5, 62.0, -55.5)
+[00:13:33] [Server thread/INFO]: Skeleton joined the game
+[00:13:50] [Server thread/INFO]: Skeleton lost connection: Killed
+[00:13:50] [Server thread/INFO]: Skeleton left the game
+[00:14:39] [Server thread/INFO]: CeramicBlue lost connection: Disconnected
+[00:14:39] [Server thread/INFO]: CeramicBlue left the game
+[00:20:32] [Server thread/INFO]: Cosmonaut[local] logged in with entity id 35957 at (-91.5, 62.0, -53.5)
+[00:20:32] [Server thread/INFO]: Cosmonaut joined the game
+[00:21:33] [Server thread/INFO]: larryzhang lost connection: Disconnected
+[00:21:33] [Server thread/INFO]: larryzhang left the game
+[00:21:41] [Server thread/INFO]: larryzhang[/24.90.203.143:49494] logged in with entity id 36103 at (-125.24037096479186, 66.0, -49.646804450137466)
+[00:21:41] [Server thread/INFO]: larryzhang joined the game
+[00:21:43] [Netty Epoll Server IO #1/INFO]: Player larryzhang joined with a matching carpet client
+[00:30:51] [Server thread/INFO]: larryzhang tried to swim in lava
+[00:31:09] [Server thread/INFO]: larryzhang lost connection: Disconnected
+[00:31:09] [Server thread/INFO]: larryzhang left the game
+[00:31:10] [Server thread/INFO]: larryzhang[/24.90.203.143:49759] logged in with entity id 37516 at (-103.57138424806028, 61.0, -55.58779104657079)
+[00:31:10] [Server thread/INFO]: larryzhang joined the game
+[00:31:12] [Netty Epoll Server IO #3/INFO]: Player larryzhang joined with a matching carpet client
+[00:31:28] [Server thread/INFO]: Cosmonaut lost connection: Killed
+[00:31:28] [Server thread/INFO]: Cosmonaut left the game
+[00:48:32] [Server thread/INFO]: larryzhang has made the advancement [A Seedy Place]
+[02:24:31] [Server thread/INFO]: larryzhang lost connection: Disconnected
+[02:24:31] [Server thread/INFO]: larryzhang left the game
+[02:24:33] [Server thread/INFO]: larryzhang[/24.90.203.143:53563] logged in with entity id 48533 at (-120.73835477222693, 65.0, -64.18647999454146)
+[02:24:33] [Server thread/INFO]: larryzhang joined the game
+[02:24:35] [Netty Epoll Server IO #1/INFO]: Player larryzhang joined with a matching carpet client
+[03:27:20] [Server thread/INFO]: SmallMoist[/71.241.153.119:63913] logged in with entity id 53826 at (-166.5, 64.0, -127.5)
+[03:27:20] [Server thread/INFO]: SmallMoist joined the game
+[03:30:09] [Server thread/INFO]: SmallMoist was shot by Skeleton
+[03:36:27] [Server thread/INFO]: SmallMoist has made the advancement [Stone Age]
+[03:37:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-146, y=68, z=-324} class_2338{x=-145, y=67, z=-325}
+[03:39:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-132, y=68, z=-320} class_2338{x=-133, y=67, z=-320}
+[03:43:55] [Server thread/INFO]: SmallMoist has made the advancement [Acquire Hardware]
+[03:45:04] [Server thread/INFO]: SmallMoist has made the advancement [Monster Hunter]
+[03:45:16] [Server thread/INFO]: SmallMoist has made the advancement [Sweet Dreams]
+[03:45:33] [Server thread/INFO]: larryzhang lost connection: Disconnected
+[03:45:33] [Server thread/INFO]: larryzhang left the game
+[03:50:26] [Server thread/INFO]: SmallMoist has made the advancement [A Seedy Place]
+[03:58:14] [Server thread/INFO]: SmallMoist was burnt to a crisp whilst fighting Zombie
+[04:00:29] [Server thread/INFO]: CeramicBlue[/74.89.41.112:11211] logged in with entity id 59221 at (534.0650882311744, 70.05489334703202, -541.5728287265338)
+[04:00:29] [Server thread/INFO]: CeramicBlue joined the game
+[04:09:53] [Server thread/INFO]: <CeramicBlue> oh your on wtf
+[04:09:59] [Server thread/INFO]: <SmallMoist> hi
+[04:10:02] [Server thread/INFO]: <SmallMoist> come to me
+[04:10:06] [Server thread/INFO]: <SmallMoist> i have settled
+[04:10:07] [Server thread/INFO]: <CeramicBlue> zip code?
+[04:10:10] [Server thread/INFO]: <SmallMoist> i need dirt
+[04:10:20] [Server thread/INFO]: <SmallMoist> -139
+[04:10:25] [Server thread/INFO]: <SmallMoist> 69
+[04:10:31] [Server thread/INFO]: <SmallMoist> -301
+[04:11:09] [Server thread/INFO]: <CeramicBlue> imma back up my dirt and come
+[04:11:13] [Server thread/INFO]: <CeramicBlue> pack up*
+[04:16:28] [Server thread/INFO]: <SmallMoist> wya
+[04:16:32] [Server thread/INFO]: <SmallMoist> still comming?
+[04:16:34] [Server thread/INFO]: <CeramicBlue> packing still
+[04:18:13] [Server thread/INFO]: <CeramicBlue> omw
+[04:18:44] [Server thread/INFO]: SmallMoist has made the advancement [Isn't It Iron Pick]
+[04:20:31] [Server thread/INFO]: <CeramicBlue> can u sleep
+[04:20:49] [Server thread/INFO]: <SmallMoist> ye
+[04:21:33] [Server thread/INFO]: SmallMoist was shot by Skeleton
+[04:21:41] [Server thread/INFO]: <CeramicBlue> nice
+[04:26:52] [Server thread/INFO]: <SmallMoist> hello
+[04:26:56] [Server thread/INFO]: <SmallMoist> u see this
+[04:27:00] [Server thread/INFO]: <SmallMoist> i am leveling the land
+[04:27:04] [Server thread/INFO]: <SmallMoist> making it all flat
+[04:27:06] [Server thread/INFO]: <CeramicBlue> sec
+[04:27:10] [Server thread/INFO]: <CeramicBlue> i love doign that
+[04:31:14] [Server thread/INFO]: <CeramicBlue> u need my help?
+[04:31:22] [Server thread/INFO]: <SmallMoist> i need dirt
+[04:31:28] [Server thread/INFO]: <SmallMoist> wait
+[04:31:40] [Server thread/INFO]: <SmallMoist> yes
+[04:31:54] [Server thread/INFO]: <SmallMoist> just build your stuff and such
+[04:34:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Dirt'/68931, l='ServerLevel[world]', x=-135.00, y=70.00, z=-358.48]
+[04:36:07] [Server thread/INFO]: <CeramicBlue> are u not puttign dirt underneath?
+[04:36:13] [Server thread/INFO]: <SmallMoist> nah pointless
+[04:39:43] [Server thread/INFO]: <CeramicBlue> moe
+[04:39:46] [Server thread/INFO]: <SmallMoist> yo
+[04:39:48] [Server thread/INFO]: <CeramicBlue> im surrounded
+[04:39:57] [Server thread/INFO]: <SmallMoist> wy
+[04:39:59] [Server thread/INFO]: <CeramicBlue> nvm
+[04:40:01] [Server thread/INFO]: <SmallMoist> WYA
+[04:40:04] [Server thread/INFO]: <SmallMoist> oh
+[04:40:25] [Server thread/INFO]: <SmallMoist> iuts empoty
+[04:40:28] [Server thread/INFO]: <SmallMoist> empty
+[04:45:01] [Server thread/INFO]: SmallMoist was shot by Skeleton
+[04:45:31] [Server thread/INFO]: SmallMoist was shot by Skeleton
+[04:48:30] [Server thread/INFO]: <CeramicBlue> rude
+[04:48:36] [Server thread/INFO]: <SmallMoist> wait what
+[04:48:42] [Server thread/INFO]: <CeramicBlue> what do id o
+[05:11:09] [Server thread/INFO]: CeramicBlue was shot by Skeleton
+[05:11:38] [Server thread/INFO]: CeramicBlue was shot by Skeleton
+[05:12:30] [Server thread/INFO]: CeramicBlue was shot by Skeleton
+[05:45:35] [Server thread/INFO]: CeramicBlue lost connection: Disconnected
+[05:45:35] [Server thread/INFO]: CeramicBlue left the game
+[05:46:16] [Server thread/INFO]: SmallMoist lost connection: Disconnected
+[05:46:16] [Server thread/INFO]: SmallMoist left the game
