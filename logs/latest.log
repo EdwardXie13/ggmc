@@ -1,174 +1,86 @@
-[01:30:02] [main/INFO]: Loading for game Minecraft 1.16.4
-[01:30:04] [main/WARN]: Warnings were found! 
+[13:05:51] [main/INFO]: Loading for game Minecraft 1.16.4
+[13:05:52] [main/WARN]: Warnings were found! 
  - Mod 'AntiGhost' (antighost) recommends any version of mod modmenu, which is missing!
 	 - You must install any version of modmenu.
  - Mod 'AntiGhost' (antighost) recommends version 1.1.7 or later of mod modupdater, which is missing!
 	 - You must install version 1.1.7 or later of modupdater.
-[01:30:04] [main/INFO]: [FabricLoader] Loading 57 mods: fabric-renderer-api-v1@0.3.3+6a2618f53a, fabric-keybindings-v0@0.2.0+6a2618f53a, fabricloader@0.10.8, crowdin-translate@1.2, automated_crafting@1.3.13+MC1.16.2-1.16.4, fabric-structure-api-v1@1.1.1+f1d8af063a, fabric-containers-v0@0.1.8+6a2618f53a, lithium@0.6.0, falling_tree@2.7.0, fabric-object-builder-api-v1@1.9.2+6a2618f53a, cotton-client-commands@1.0.1+1.16-rc1, fabric-game-rule-api-v1@1.0.3+a4467d2a3a, fabric-api-base@0.2.0+ab87788d3a, fabric-rendering-data-attachment-v1@0.1.4+6a2618f53a, fabric-textures-v0@1.0.5+6a2618f53a, fabric-rendering-fluids-v1@0.1.12+6a2618f53a, litematica@0.0.0-dev.20201103.184101, fabric-blockrenderlayer-v1@1.1.4+6a2618f53a, fabric-lifecycle-events-v1@1.2.0+6a2618f53a, fabric-renderer-registries-v1@2.2.0+6a2618f53a, carpet-extra@1.4.16, fabric-loot-tables-v1@1.0.1+6a2618f53a, fabric@0.26.3+1.16, carpet@1.4.19, fabric-particles-v1@0.2.2+6a2618f53a, fabric-networking-v0@0.1.10+6a2618f53a, fabric-networking-blockentity-v0@0.2.5+6a2618f53a, minecraft@1.16.4, fabric-screen-handler-api-v1@1.1.0+6a2618f53a, jankson@3.0.1+j1.2.0, cloth-basic-math@0.5.1, fabric-command-api-v1@1.0.9+6a2618f53a, fabric-tool-attribute-api-v1@1.2.5+6a2618f53a, fabric-renderer-indigo@0.4.3+6a2618f53a, fabric-events-interaction-v0@0.4.1+6a2618f53a, fabric-crash-report-info-v1@0.1.2+b7f9825d3a, fabric-item-api-v1@1.2.0+6a2618f53a, libgui@3.2.1+1.16.3, fabric-rendering-v0@1.1.1+6a2618f53a, fabric-key-binding-api-v1@1.0.1+730711c63a, fabric-rendering-v1@1.4.0+6a2618f53a, cloth-config2@4.8.2, autoconfig1u@3.3.1, fabric-resource-loader-v0@0.3.2+1944f3e03a, malilib@0.10.0-dev.21+arne.2, antighost@1.16.4-fabric0.25.1-1.1.3, fabric-content-registries-v0@0.1.9+6a2618f53a, fabric-tag-extensions-v0@1.0.3+6a2618f53a, fabric-biome-api-v1@3.1.0+2e23b97c3a, fabric-commands-v0@0.2.0+6a2618f53a, fabric-registry-sync-v0@0.7.1+285766753a, fabric-mining-levels-v0@0.1.2+6a2618f53a, fabric-events-lifecycle-v0@0.2.0+6a2618f53a, fabric-models-v0@0.1.1+6a2618f53a, fabric-item-groups-v0@0.2.1+6a2618f53a, fabric-object-builders-v0@0.7.1+6a2618f53a, lithium-api@0.6.0
-[01:30:04] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/home/edwardxie121/ggmc/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
-[01:30:10] [main/WARN]: @Mixin target net/minecraft/class_3898$class_3208 is public in fabric-networking-[01:30:30] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[01:30:33] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[01:30:33] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:30:33] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:30:33] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[01:30:33] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:30:34] [main/INFO]: Reloading ResourceManager: Default, Fabric Tool Attribute API (v1), Automated Crafting
-[01:30:36] [Worker-Main-2/INFO]: Loaded 7 recipes
-[01:30:37] [Worker-Main-2/INFO]: Loaded 927 advancements
-[01:30:40] [main/INFO]: Applied 0 biome modifications to 0 of 79 new biomes in 10.65 ms
-[01:30:40] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[01:30:40] [Server thread/INFO]: Loading properties
-[01:30:40] [Server thread/INFO]: Default game type: SURVIVAL
-[01:30:40] [Server thread/INFO]: Generating keypair
-[01:30:41] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:30:41] [Server thread/INFO]: Using epoll channel type
-[01:30:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:30:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:30:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:30:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:30:42] [Server thread/INFO]: Preparing level "world"
-[01:30:42] [Server thread/INFO]: [CM]: loaded setting silverFishDropGravel as true from carpet.conf
-[01:30:42] [Server thread/INFO]: [CM]: loaded setting carpets as false from carpet.conf
-[01:30:42] [Server thread/INFO]: [CM]: loaded setting combineXPOrbs as true from carpet.conf
-[01:30:42] [Server thread/INFO]: [CM]: loaded setting commandLog as true from carpet.conf
-[01:30:42] [Server thread/INFO]: [CM]: loaded setting commandPerimeterInfo as true from carpet.conf
-[01:30:42] [Server thread/INFO]: [CM]: loaded setting tntPrimerMomentumRemoved as true from carpet.conf
-[01:30:42] [Server thread/INFO]: [CM]: loaded setting xpNoCooldown as true from carpet.conf
-[01:30:42] [Server thread/INFO]: [CM]: loaded setting commandTrackAI as false from carpet.conf
-[01:30:42] [Server thread/INFO]: [CM]: loaded setting ctrlQCraftingFix as true from carpet.conf
-[01:30:42] [Server thread/INFO]: [CM]: loaded setting fogOff as false from carpet.conf
-[01:30:42] [Server thread/INFO]: [CM]: loaded setting commandDistance as false from carpet.conf
-[01:30:42] [Server thread/INFO]: [CM]: loaded setting fastRedstoneDust as true from carpet.conf
-[01:30:42] [Server thread/INFO]: [CM]: loaded setting fillLimit as 1000000 from carpet.conf
-[01:30:42] [Server thread/INFO]: [CM]: loaded setting antiCheatDisabled as true from carpet.conf
-[01:30:42] [Server thread/INFO]: [CM]: loaded setting commandSpawn as false from carpet.conf
-[01:30:42] [Server thread/INFO]: [CM]: loaded setting stackableShulkerBoxes as false from carpet.conf
-[01:30:42] [Server thread/INFO]: [CM]: loaded setting shulkerSpawningInEndCities as false from carpet.conf
-[01:30:42] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
-[01:30:42] [Server thread/INFO]: [CM]: loaded setting clericsFarmWarts as true from carpet.conf
-[01:30:42] [Server thread/INFO]: [CM]: loaded setting smoothClientAnimations as true from carpet.conf
-[01:30:42] [Server thread/INFO]: [CM]: loaded setting autoCraftingDropper as false from carpet.conf
-[01:30:42] [Server thread/INFO]: [CM]: loaded setting commandTick as false from carpet.conf
-[01:30:42] [Server thread/INFO]: [CM]: loaded setting commandDraw as false from carpet.conf
-[01:30:42] [Server thread/INFO]: [CM]: loaded setting commandScript as false from carpet.conf
-[01:30:42] [Server thread/INFO]: [CM]: loaded setting defaultLoggers as mobcaps,tps from carpet.conf
-[01:30:42] [Server thread/INFO]: [CM]: loaded setting optimizedTNT as true from carpet.conf
-[01:30:42] [Server thread/INFO]: [CM]: loaded setting commandInfo as false from carpet.conf
-[01:30:42] [Server thread/INFO]: [CM]: loaded setting flippinCactus as true from carpet.conf
-[01:30:42] [Server thread/INFO]: [CM]: loaded setting lagFreeSpawning as true from carpet.conf
-[01:30:42] [Server thread/INFO]: [CM]: loaded setting viewDistance as 0 from carpet.conf
-[01:30:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:30:46] [Server thread/INFO]: Preparing spawn area: 0%
-[01:30:46] [Server thread/INFO]: Preparing spawn area: 0%
-[01:30:46] [Server thread/INFO]: Preparing spawn area: 0%
-[01:30:46] [Server thread/INFO]: Preparing spawn area: 0%
-[01:30:46] [Server thread/INFO]: Preparing spawn area: 0%
-[01:30:46] [Server thread/INFO]: Preparing spawn area: 0%
-[01:30:46] [Server thread/INFO]: Preparing spawn area: 0%
-[01:30:46] [Server thread/INFO]: Preparing spawn area: 3%
-[01:30:47] [Server thread/INFO]: Preparing spawn area: 55%
-[01:30:47] [Server thread/INFO]: Time elapsed: 4862 ms
-[01:30:47] [Server thread/INFO]: Done (5.802s)! For help, type "help"
-[01:30:49] [Server thread/INFO]: larryzhang[/24.90.203.143:62468] logged in with entity id 42 at (-189.34325437973087, 64.0, -86.69999998807907)
-[01:30:49] [Server thread/INFO]: larryzhang joined the game
-[01:30:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
-[01:30:50] [Netty Epoll Server IO #1/INFO]: Player larryzhang joined with a matching carpet client
-[01:31:56] [Server thread/INFO]: CeramicBlue[/74.89.41.112:4058] logged in with entity id 429 at (-185.69999998807907, 61.0, -339.6554967220662)
-[01:31:56] [Server thread/INFO]: CeramicBlue joined the game
-[01:31:56] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@4ba5a7c7[id=15fda02e-5742-3201-b29c-64c076835060,name=Kar_Kay,properties={},legacy=false] (/159.89.48.199:61616): You are banned from this server.
-Reason: ban
-[01:31:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@4ba5a7c7[id=15fda02e-5742-3201-b29c-64c076835060,name=Kar_Kay,properties={},legacy=false] (/159.89.48.199:61616) lost connection: You are banned from this server.
-Reason: ban
-[01:37:39] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@62fed31f[id=15fda02e-5742-3201-b29c-64c076835060,name=Kar_Kay,properties={},legacy=false] (/98.113.142.248:61801): You are banned from this server.
-Reason: ban
-[01:37:39] [Server thread/INFO]: com.mojang.authlib.GameProfile@62fed31f[id=15fda02e-5742-3201-b29c-64c076835060,name=Kar_Kay,properties={},legacy=false] (/98.113.142.248:61801) lost connection: You are banned from this server.
-Reason: ban
-[01:39:31] [Server thread/INFO]: larryzhang lost connection: Disconnected
-[01:39:31] [Server thread/INFO]: larryzhang left the game
-[01:39:43] [Server thread/INFO]: larryzhang[/24.90.203.143:62531] logged in with entity id 2163 at (-109.6572759072067, 62.0, -60.750959905831266)
-[01:39:43] [Server thread/INFO]: larryzhang joined the game
-[01:39:45] [Netty Epoll Server IO #2/INFO]: Player larryzhang joined with a matching carpet client
-[01:41:41] [Server thread/INFO]: Biogi555[/157.230.227.55:62074] logged in with entity id 2701 at (-151.5, 66.0, -124.5)
-[01:41:41] [Server thread/INFO]: Biogi555 joined the game
-[01:45:55] [Server thread/INFO]: Biogi555 has made the advancement [Acquire Hardware]
-[01:46:44] [Server thread/INFO]: Biogi555 has made the advancement [Isn't It Iron Pick]
-[01:47:25] [Server thread/INFO]: Biogi555 has made the advancement [Stone Age]
-[01:48:16] [Server thread/INFO]: Biogi555 has made the advancement [Monster Hunter]
-[01:52:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-157, y=57, z=-141} class_2338{x=-150, y=57, z=-137}
-[01:52:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-157, y=57, z=-141} class_2338{x=-150, y=57, z=-137}
-[01:52:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-157, y=57, z=-141} class_2338{x=-150, y=57, z=-137}
-[01:52:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-157, y=57, z=-141} class_2338{x=-150, y=57, z=-137}
-[01:52:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-157, y=57, z=-141} class_2338{x=-150, y=57, z=-138}
-[01:52:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-157, y=57, z=-141} class_2338{x=-150, y=58, z=-138}
-[01:52:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-157, y=57, z=-141} class_2338{x=-150, y=58, z=-137}
-[01:53:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-157, y=57, z=-141} class_2338{x=-150, y=57, z=-137}
-[01:53:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-157, y=57, z=-141} class_2338{x=-150, y=57, z=-138}
-[01:53:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-157, y=57, z=-141} class_2338{x=-150, y=58, z=-138}
-[01:53:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-157, y=57, z=-141} class_2338{x=-150, y=58, z=-137}
-[01:53:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-157, y=57, z=-141} class_2338{x=-150, y=57, z=-137}
-[01:53:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-157, y=57, z=-141} class_2338{x=-150, y=57, z=-138}
-[01:53:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-157, y=57, z=-141} class_2338{x=-150, y=58, z=-138}
-[01:53:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-157, y=57, z=-141} class_2338{x=-150, y=58, z=-138}
-[01:53:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-157, y=57, z=-141} class_2338{x=-150, y=58, z=-137}
-[01:53:15] [Server thread/INFO]: Biogi555 has made the advancement [Suit Up]
-[02:01:20] [Server thread/INFO]: larryzhang lost connection: Disconnected
-[02:01:20] [Server thread/INFO]: larryzhang left the game
-[02:02:01] [Server thread/INFO]: larryzhang[/24.90.203.143:62821] logged in with entity id 7410 at (-191.8478086146805, 70.0, -296.92902863232956)
-[02:02:01] [Server thread/INFO]: larryzhang joined the game
-[02:02:02] [Netty Epoll Server IO #0/INFO]: Player larryzhang joined with a matching carpet client
-[02:09:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[02:10:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
-[02:11:59] [Server thread/INFO]: SmallMoist[/71.241.153.119:54669] logged in with entity id 12923 at (-168.42181914682143, 70.0, -288.66119446805516)
-[02:11:59] [Server thread/INFO]: SmallMoist joined the game
-[02:13:46] [Server thread/INFO]: <Biogi555> t
-[02:17:17] [Server thread/INFO]: Biogi555 has made the advancement [Best Friends Forever]
-[02:25:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-156, y=69, z=-292} class_2338{x=-156, y=69, z=-293}
-[02:25:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-156, y=69, z=-292} class_2338{x=-156, y=69, z=-293}
-[02:25:54] [Server thread/INFO]: SmallMoist has made the advancement [Suit Up]
-[02:44:55] [Server thread/INFO]: CeramicBlue has made the advancement [Suit Up]
-[02:49:04] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@40b3898b[id=5c36fa62-8b3b-3afd-acdc-af327b2c82ff,name=Biogi555,properties={},legacy=false] (/98.113.142.248:62670): Your IP address is banned from this server.
-Reason: Banned by an operator.
-[02:49:04] [Server thread/INFO]: com.mojang.authlib.GameProfile@40b3898b[id=5c36fa62-8b3b-3afd-acdc-af327b2c82ff,name=Biogi555,properties={},legacy=false] (/98.113.142.248:62670) lost connection: Your IP address is banned from this server.
-Reason: Banned by an operator.
-[02:49:10] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@2f75506a[id=5c36fa62-8b3b-3afd-acdc-af327b2c82ff,name=Biogi555,properties={},legacy=false] (/98.113.142.248:62674): Your IP address is banned from this server.
-Reason: Banned by an operator.
-[02:49:10] [Server thread/INFO]: com.mojang.authlib.GameProfile@2f75506a[id=5c36fa62-8b3b-3afd-acdc-af327b2c82ff,name=Biogi555,properties={},legacy=false] (/98.113.142.248:62674) lost connection: Your IP address is banned from this server.
-Reason: Banned by an operator.
-[02:49:18] [Server thread/INFO]: Biogi555 lost connection: Timed out
-[02:49:18] [Server thread/INFO]: Biogi555 left the game
-[02:49:18] [Server thread/WARN]: handleDisconnection() called twice
-[02:49:19] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@4be11732[id=5c36fa62-8b3b-3afd-acdc-af327b2c82ff,name=Biogi555,properties={},legacy=false] (/98.113.142.248:62694): Your IP address is banned from this server.
-Reason: Banned by an operator.
-[02:49:19] [Server thread/INFO]: com.mojang.authlib.GameProfile@4be11732[id=5c36fa62-8b3b-3afd-acdc-af327b2c82ff,name=Biogi555,properties={},legacy=false] (/98.113.142.248:62694) lost connection: Your IP address is banned from this server.
-Reason: Banned by an operator.
-[02:49:24] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@47c9333d[id=5c36fa62-8b3b-3afd-acdc-af327b2c82ff,name=Biogi555,properties={},legacy=false] (/98.113.142.248:62700): Your IP address is banned from this server.
-Reason: Banned by an operator.
-[02:49:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@47c9333d[id=5c36fa62-8b3b-3afd-acdc-af327b2c82ff,name=Biogi555,properties={},legacy=false] (/98.113.142.248:62700) lost connection: Your IP address is banned from this server.
-Reason: Banned by an operator.
-[02:49:35] [Server thread/INFO]: Biogi555[/159.65.231.20:62748] logged in with entity id 24958 at (-187.9775994134777, 51.0, -327.6651206944914)
-[02:49:35] [Server thread/INFO]: Biogi555 joined the game
-[03:02:54] [Server thread/WARN]: Fetching packet for removed entity class_1542['Oak Log'/27682, l='ServerLevel[world]', x=-205.11, y=73.26, z=-224.14]
-[03:02:54] [Server thread/WARN]: Fetching packet for removed entity class_1542['Oak Log'/27683, l='ServerLevel[world]', x=-205.23, y=74.49, z=-224.47]
-[03:06:30] [Server thread/INFO]: com.mojang.authlib.GameProfile@3d1bb99f[id=5c36fa62-8b3b-3afd-acdc-af327b2c82ff,name=Biogi555,properties={},legacy=false] (/104.248.120.172:63093) lost connection: Disconnected
-[03:06:32] [Server thread/INFO]: Biogi555 lost connection: Disconnected
-[03:06:32] [Server thread/INFO]: Biogi555 left the game
-[03:06:32] [Server thread/INFO]: Biogi555[/104.248.120.172:63079] logged in with entity id 28807 at (-186.8068416427724, 69.0, -265.8578627495566)
-[03:06:32] [Server thread/INFO]: Biogi555 joined the game
-[03:07:47] [Server thread/INFO]: biogi556[local] logged in with entity id 29263 at (-210.02033185852758, 78.0, -243.99554324291086)
-[03:07:47] [Server thread/INFO]: biogi556 joined the game
-[03:08:35] [Server thread/INFO]: biogi556 lost connection: Killed
-[03:08:35] [Server thread/INFO]: biogi556 left the game
-[03:08:57] [Server thread/INFO]: [larryzhang: Player Biogi555 is already logged on]
-[03:10:48] [Server thread/INFO]: Biogi555 lost connection: Timed out
-[03:10:48] [Server thread/INFO]: Biogi555 left the game
-[03:10:48] [Server thread/WARN]: handleDisconnection() called twice
-[03:31:38] [Server thread/INFO]: CeramicBlue lost connection: Disconnected
-[03:31:38] [Server thread/INFO]: CeramicBlue left the game
-[03:48:26] [Server thread/INFO]: SmallMoist lost connection: Disconnected
-[03:48:26] [Server thread/INFO]: SmallMoist left the game
-[03:58:32] [Server thread/INFO]: larryzhang lost connection: Disconnected
-[03:58:32] [Server thread/INFO]: larryzhang left the game
-[04:01:57] [Server thread/INFO]: CeramicBlue[/74.89.41.112:4774] logged in with entity id 40106 at (-190.04521405285686, 70.0, -263.71002041936214)
-[04:01:57] [Server thread/INFO]: CeramicBlue joined the game
-[04:46:18] [Server thread/INFO]: CeramicBlue lost connection: Disconnected
-[04:46:18] [Server thread/INFO]: CeramicBlue left the game
+[13:05:52] [main/INFO]: [FabricLoader] Loading 57 mods: fabric-renderer-api-v1@0.3.3+6a2618f53a, fabric-keybindings-v0@0.2.0+6a2618f53a, fabricloader@0.10.8, crowdin-translate@1.2, automated_crafting@1.3.13+MC1.16.2-1.16.4, fabric-structure-api-v1@1.1.1+f1d8af063a, fabric-containers-v0@0.1.8+6a2618f53a, lithium@0.6.0, falling_tree@2.7.0, fabric-object-builder-api-v1@1.9.2+6a2618f53a, cotton-client-commands@1.0.1+1.16-rc1, fabric-game-rule-api-v1@1.0.3+a4467d2a3a, fabric-api-base@0.2.0+ab87788d3a, fabric-rendering-data-attachment-v1@0.1.4+6a2618f53a, fabric-textures-v0@1.0.5+6a2618f53a, fabric-rendering-fluids-v1@0.1.12+6a2618f53a, litematica@0.0.0-dev.20201103.184101, fabric-blockrenderlayer-v1@1.1.4+6a2618f53a, fabric-lifecycle-events-v1@1.2.0+6a2618f53a, fabric-renderer-registries-v1@2.2.0+6a2618f53a, carpet-extra@1.4.16, fabric-loot-tables-v1@1.0.1+6a2618f53a, fabric@0.26.3+1.16, carpet@1.4.19, fabric-particles-v1@0.2.2+6a2618f53a, fabric-networking-v0@0.1.10+6a2618f53a, fabric-networking-blockentity-v0@0.2.5+6a2618f53a, minecraft@1.16.4, fabric-screen-handler-api-v1@1.1.0+6a2618f53a, jankson@3.0.1+j1.2.0, cloth-basic-math@0.5.1, fabric-command-api-v1@1.0.9+6a2618f53a, fabric-tool-attribute-api-v1@1.2.5+6a2618f53a, fabric-renderer-indigo@0.4.3+6a2618f53a, fabric-events-interaction-v0@0.4.1+6a2618f53a, fabric-crash-report-info-v1@0.1.2+b7f9825d3a, fabric-item-api-v1@1.2.0+6a2618f53a, libgui@3.2.1+1.16.3, fabric-rendering-v0@1.1.1+6a2618f53a, fabric-key-binding-api-v1@1.0.1+730711c63a, fabric-rendering-v1@1.4.0+6a2618f53a, cloth-config2@4.8.2, autoconfig1u@3.3.1, fabric-resource-loader-v0@0.3.2+1944f3e03a, malilib@0.10.0-dev.21+arne.2, antighost@1.16.4-fabric0.25.1-1.1.3, fabric-content-registries-v0@0.1.9+6a2618f53a, fabric-tag-extensions-v0@1.0.3+6a2618f53a, fabric-biome-api-v1@3.1.0+2e23b97c3a, fabric-commands-v0@0.2.0+6a2618f53a, fabric-registry-sync-v0@0.7.1+285766753a, fabric-mining-levels-v0@0.1.2+6a2618f53a, fabric-events-lifecycle-v0@0.2.0+6a2618f53a, fabric-models-v0@0.1.1+6a2618f53a, fabric-item-groups-v0@0.2.1+6a2618f53a, fabric-object-builders-v0@0.7.1+6a2618f53a, lithium-api@0.6.0
+[13:05:52] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/home/edwardxie121/ggmc/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[13:05:56] [main/WARN]: @Mixin target net/minecraft/class_3898$class_3208 is public in fabric-networking-[13:06:09] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13:06:12] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:06:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:06:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:06:12] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:06:12] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:06:12] [main/INFO]: Reloading ResourceManager: Default, Fabric Tool Attribute API (v1), Automated Crafting
+[13:06:14] [Worker-Main-2/INFO]: Loaded 7 recipes
+[13:06:14] [Worker-Main-2/INFO]: Loaded 927 advancements
+[13:06:16] [main/INFO]: Applied 0 biome modifications to 0 of 79 new biomes in 2.862 ms
+[13:06:16] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[13:06:16] [Server thread/INFO]: Loading properties
+[13:06:16] [Server thread/INFO]: Default game type: SURVIVAL
+[13:06:16] [Server thread/INFO]: Generating keypair
+[13:06:16] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Bad file descriptor
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_275]
+	at java.io.FileInputStream.read(FileInputStream.java:255) ~[?:1.8.0_275]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:284) ~[?:1.8.0_275]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:345) ~[?:1.8.0_275]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284) ~[?:1.8.0_275]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326) ~[?:1.8.0_275]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:1.8.0_275]
+	at java.io.InputStreamReader.read(InputStreamReader.java:184) ~[?:1.8.0_275]
+	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:1.8.0_275]
+	at java.io.BufferedReader.readLine(BufferedReader.java:324) ~[?:1.8.0_275]
+	at java.io.BufferedReader.readLine(BufferedReader.java:389) ~[?:1.8.0_275]
+	at net.minecraft.class_3176$1.run(class_3176.java:95) [intermediary-server.jar:?]
+[13:06:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:06:17] [Server thread/INFO]: Using epoll channel type
+[13:06:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:06:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:06:17] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:06:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:06:17] [Server thread/INFO]: Preparing level "world"
+[13:06:17] [Server thread/INFO]: [CM]: loaded setting silverFishDropGravel as true from carpet.conf
+[13:06:17] [Server thread/INFO]: [CM]: loaded setting carpets as false from carpet.conf
+[13:06:17] [Server thread/INFO]: [CM]: loaded setting combineXPOrbs as true from carpet.conf
+[13:06:17] [Server thread/INFO]: [CM]: loaded setting commandLog as true from carpet.conf
+[13:06:17] [Server thread/INFO]: [CM]: loaded setting commandPerimeterInfo as true from carpet.conf
+[13:06:17] [Server thread/INFO]: [CM]: loaded setting tntPrimerMomentumRemoved as true from carpet.conf
+[13:06:17] [Server thread/INFO]: [CM]: loaded setting xpNoCooldown as true from carpet.conf
+[13:06:17] [Server thread/INFO]: [CM]: loaded setting commandTrackAI as false from carpet.conf
+[13:06:17] [Server thread/INFO]: [CM]: loaded setting ctrlQCraftingFix as true from carpet.conf
+[13:06:17] [Server thread/INFO]: [CM]: loaded setting fogOff as false from carpet.conf
+[13:06:17] [Server thread/INFO]: [CM]: loaded setting commandDistance as false from carpet.conf
+[13:06:17] [Server thread/INFO]: [CM]: loaded setting fastRedstoneDust as true from carpet.conf
+[13:06:17] [Server thread/INFO]: [CM]: loaded setting fillLimit as 1000000 from carpet.conf
+[13:06:17] [Server thread/INFO]: [CM]: loaded setting antiCheatDisabled as true from carpet.conf
+[13:06:17] [Server thread/INFO]: [CM]: loaded setting commandSpawn as false from carpet.conf
+[13:06:17] [Server thread/INFO]: [CM]: loaded setting stackableShulkerBoxes as false from carpet.conf
+[13:06:17] [Server thread/INFO]: [CM]: loaded setting shulkerSpawningInEndCities as false from carpet.conf
+[13:06:17] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
+[13:06:17] [Server thread/INFO]: [CM]: loaded setting clericsFarmWarts as true from carpet.conf
+[13:06:17] [Server thread/INFO]: [CM]: loaded setting smoothClientAnimations as true from carpet.conf
+[13:06:17] [Server thread/INFO]: [CM]: loaded setting autoCraftingDropper as false from carpet.conf
+[13:06:17] [Server thread/INFO]: [CM]: loaded setting commandTick as false from carpet.conf
+[13:06:17] [Server thread/INFO]: [CM]: loaded setting commandDraw as false from carpet.conf
+[13:06:17] [Server thread/INFO]: [CM]: loaded setting commandScript as false from carpet.conf
+[13:06:17] [Server thread/INFO]: [CM]: loaded setting defaultLoggers as mobcaps,tps from carpet.conf
+[13:06:17] [Server thread/INFO]: [CM]: loaded setting optimizedTNT as true from carpet.conf
+[13:06:17] [Server thread/INFO]: [CM]: loaded setting commandInfo as false from carpet.conf
+[13:06:17] [Server thread/INFO]: [CM]: loaded setting flippinCactus as true from carpet.conf
+[13:06:17] [Server thread/INFO]: [CM]: loaded setting lagFreeSpawning as true from carpet.conf
+[13:06:17] [Server thread/INFO]: [CM]: loaded setting viewDistance as 0 from carpet.conf
+[13:06:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:06:20] [Server thread/INFO]: Preparing spawn area: 0%
+[13:06:20] [Server thread/INFO]: Preparing spawn area: 0%
+[13:06:20] [Server thread/INFO]: Preparing spawn area: 0%
+[13:06:20] [Server thread/INFO]: Preparing spawn area: 0%
+[13:06:20] [Server thread/INFO]: Preparing spawn area: 0%
+[13:06:20] [Worker-Main-3/INFO]: Preparing spawn area: 9%
+[13:06:21] [Server thread/INFO]: Preparing spawn area: 87%
+[13:06:21] [Server thread/INFO]: Time elapsed: 3294 ms
+[13:06:21] [Server thread/INFO]: Done (3.760s)! For help, type "help"
+[14:02:07] [Server thread/INFO]: larryzhang[/24.90.203.143:64167] logged in with entity id 85 at (-94.37659019974998, 62.0, -54.95711064282451)
+[14:02:07] [Server thread/INFO]: larryzhang joined the game
+[14:02:09] [Netty Epoll Server IO #2/INFO]: Player larryzhang joined with a matching carpet client
