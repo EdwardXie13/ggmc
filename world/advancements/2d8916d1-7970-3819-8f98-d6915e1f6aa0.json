@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2020-12-03 02:50:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2020-11-30 00:19:31 +0000"
@@ -119,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2020-12-03 04:42:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2020-12-02 04:06:48 +0000"
@@ -227,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2020-12-03 04:44:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2020-11-30 00:19:31 +0000"
@@ -259,8 +277,12 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2020-12-03 02:23:58 +0000",
       "cooked_mutton": "2020-12-02 04:35:40 +0000",
-      "cooked_beef": "2020-11-30 00:46:55 +0000"
+      "cooked_beef": "2020-11-30 00:46:55 +0000",
+      "apple": "2020-12-03 03:14:03 +0000",
+      "bread": "2020-12-03 04:42:38 +0000",
+      "rotten_flesh": "2020-12-03 03:10:00 +0000"
     },
     "done": false
   },
@@ -354,9 +376,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2020-12-03 02:20:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2020-11-30 00:26:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2020-12-03 04:42:22 +0000"
     },
     "done": true
   },
@@ -375,6 +409,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-12-02 04:42:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2020-12-03 02:50:18 +0000"
     },
     "done": true
   },
@@ -429,6 +469,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2020-11-30 00:19:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2020-12-03 02:44:55 +0000"
     },
     "done": true
   },
@@ -618,6 +664,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2020-12-03 02:50:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2020-11-30 00:40:22 +0000"
@@ -627,6 +679,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2020-12-02 05:12:26 +0000",
+      "minecraft:spider": "2020-12-03 02:50:17 +0000",
       "minecraft:zombie": "2020-12-01 23:40:24 +0000"
     },
     "done": false
@@ -817,6 +870,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2020-12-03 02:50:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2020-11-30 00:19:31 +0000"
@@ -976,6 +1035,12 @@
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2020-12-02 04:47:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2020-12-03 02:50:18 +0000"
     },
     "done": true
   },
@@ -1188,6 +1253,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2020-12-03 02:28:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_carpet": {
     "criteria": {
       "has_light_gray_wool": "2020-11-30 00:31:04 +0000"
@@ -1302,6 +1373,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2020-12-03 03:01:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2020-12-01 23:42:19 +0000"
@@ -1371,6 +1448,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2020-11-30 00:19:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2020-12-03 04:44:44 +0000"
     },
     "done": true
   },

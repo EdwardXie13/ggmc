@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "uuid": "15fda02e-5742-3201-b29c-64c076835060",
+    "name": "Kar_Kay",
+    "created": "2020-12-03 01:29:02 +0000",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "ban"
+  }
+]
