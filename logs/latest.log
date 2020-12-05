@@ -1,69 +1,68 @@
-[00:04:22] [Server thread/INFO]: larryzhang[/24.90.203.143:53630] logged in with entity id 67938 at (-187.26026114512902, 70.0, -318.646201993337)
-[00:04:22] [Server thread/INFO]: larryzhang joined the game
-[00:04:23] [Netty Epoll Server IO #1/INFO]: Player larryzhang joined with a matching carpet client
-[00:18:17] [Server thread/INFO]: SmallMoist lost connection: Disconnected
-[00:18:17] [Server thread/INFO]: SmallMoist left the game
-[00:18:34] [Server thread/INFO]: SmallMoist[/71.241.153.119:64000] logged in with entity id 69830 at (-123.70751950817846, 101.0, -313.69999998807907)
-[00:18:34] [Server thread/INFO]: SmallMoist joined the game
-[00:19:32] [Server thread/INFO]: CeramicBlue[/74.89.41.112:5823] logged in with entity id 70031 at (-192.61328971268205, 64.5625, -333.80275211291655)
-[00:19:32] [Server thread/INFO]: CeramicBlue joined the game
-[00:20:02] [Server thread/INFO]: CeramicBlue lost connection: Disconnected
-[00:20:02] [Server thread/INFO]: CeramicBlue left the game
-[00:20:23] [Server thread/INFO]: CeramicBlue[/74.89.41.112:5829] logged in with entity id 70144 at (-192.61328971268205, 64.5625, -333.80275211291655)
-[00:20:23] [Server thread/INFO]: CeramicBlue joined the game
-[00:30:58] [Server thread/INFO]: SmallMoist has made the advancement [The Parrots and the Bats]
-[00:32:18] [Server thread/INFO]: larryzhang lost connection: Disconnected
-[00:32:18] [Server thread/INFO]: larryzhang left the game
-[00:32:19] [Server thread/INFO]: larryzhang[/24.90.203.143:53798] logged in with entity id 72333 at (-4.506753801588415, 62.0, -16.41288839456493)
-[00:32:19] [Server thread/INFO]: larryzhang joined the game
-[00:32:20] [Netty Epoll Server IO #2/INFO]: Player larryzhang joined with a matching carpet client
-[00:34:43] [Server thread/INFO]: [CeramicBlue: Player SmallMoist is already logged on]
-[00:34:57] [Server thread/INFO]: nigger[local] logged in with entity id 73377 at (-59.89671679299129, 58.0, -328.6834216659446)
-[00:34:57] [Server thread/INFO]: nigger joined the game
-[00:34:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3003ms or 60 ticks behind
-[00:35:06] [Server thread/INFO]: chink[local] logged in with entity id 73408 at (-121.01714526727721, 64.0, -16.63501740782738)
-[00:35:06] [Server thread/INFO]: chink joined the game
-[00:35:13] [Server thread/INFO]: nigger was slain by SmallMoist
-[00:35:13] [Server thread/INFO]: nigger lost connection: Killed
-[00:35:13] [Server thread/INFO]: nigger left the game
-[00:35:59] [Server thread/INFO]: chink lost connection: Killed
-[00:35:59] [Server thread/INFO]: chink left the game
-[00:36:04] [Server thread/INFO]: SmallMoist was shot by Skeleton
-[00:36:16] [Server thread/INFO]: yong_chen_zhu[local] logged in with entity id 73881 at (-119.98854139887828, 67.0, 0.43264237852084897)
-[00:36:16] [Server thread/INFO]: yong_chen_zhu joined the game
-[00:36:28] [Server thread/INFO]: Scat[local] logged in with entity id 73930 at (-120.02852084216633, 67.0, 2.2407203778912823)
-[00:36:28] [Server thread/INFO]: Scat joined the game
-[00:37:09] [Server thread/INFO]: Scat lost connection: Killed
-[00:37:09] [Server thread/INFO]: Scat left the game
-[00:37:15] [Server thread/INFO]: yong_chen_zhu lost connection: Killed
-[00:37:15] [Server thread/INFO]: yong_chen_zhu left the game
-[00:38:27] [Server thread/INFO]: SmallMoist hit the ground too hard
-[00:40:07] [Server thread/INFO]: CeramicBlue has made the advancement [The Parrots and the Bats]
-[00:51:47] [Server thread/INFO]: larryzhang fell from a high place
-[00:53:29] [Server thread/WARN]: Fetching packet for removed entity class_1542['Birch Boat'/80686, l='ServerLevel[world]', x=-247.54, y=63.00, z=-311.88]
-[01:01:11] [Server thread/INFO]: Villager class_1646['Nitwit'/82102, l='ServerLevel[world]', x=-248.61, y=172.90, z=-302.62] died, message: 'Nitwit was slain by CeramicBlue'
-[01:01:28] [Server thread/INFO]: CeramicBlue was slain by larryzhang
-[01:02:09] [Server thread/INFO]: CeramicBlue was slain by larryzhang
-[01:03:46] [Server thread/INFO]: CeramicBlue fell from a high place
-[01:06:00] [Server thread/INFO]: SmallMoist fell from a high place
-[01:06:04] [Server thread/INFO]: CeramicBlue fell from a high place
-[01:06:39] [Server thread/INFO]: SmallMoist has made the advancement [Getting an Upgrade]
-[01:08:01] [Server thread/INFO]: SmallMoist has made the advancement [Take Aim]
-[01:38:15] [Server thread/INFO]: CeramicBlue was slain by Zombie
-[01:38:16] [Server thread/INFO]: SmallMoist was slain by Zombie
-[01:38:52] [Server thread/INFO]: SmallMoist lost connection: Disconnected
-[01:38:52] [Server thread/INFO]: SmallMoist left the game
-[01:53:08] [Server thread/INFO]: CeramicBlue was shot by Skeleton
-[01:53:12] [Server thread/INFO]: CeramicBlue lost connection: Disconnected
-[01:53:12] [Server thread/INFO]: CeramicBlue left the game
-[02:00:12] [Server thread/INFO]: larryzhang was blown up by Creeper
-[03:03:11] [Server thread/INFO]: larryzhang lost connection: Disconnected
-[03:03:11] [Server thread/INFO]: larryzhang left the game
-[03:03:32] [Server thread/INFO]: larryzhang[/24.90.203.143:54905] logged in with entity id 106194 at (-257.4052441966711, 171.0, -307.5620931403568)
-[03:03:32] [Server thread/INFO]: larryzhang joined the game
-[03:03:33] [Netty Epoll Server IO #0/INFO]: Player larryzhang joined with a matching carpet client
-[03:35:44] [Server thread/INFO]: breederbot[local] logged in with entity id 110377 at (-268.30000001192093, 173.0, -303.5535273972147)
-[03:35:44] [Server thread/INFO]: breederbot joined the game
-[03:35:53] [Server thread/INFO]: larryzhang lost connection: Disconnected
-[03:35:53] [Server thread/INFO]: larryzhang left the game
-[11:01:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2425ms or 48 ticks behind
+[00:29:07] [Server thread/INFO]: larryzhang lost connection: Disconnected
+[00:29:07] [Server thread/INFO]: larryzhang left the game
+[00:35:38] [Server thread/INFO]: larryzhang[/24.90.203.143:58833] logged in with entity id 55827 at (-93.20535171087926, 62.0, -56.01443031866489)
+[00:35:38] [Server thread/INFO]: larryzhang joined the game
+[00:35:39] [Netty Epoll Server IO #0/INFO]: Player larryzhang joined with a matching carpet client
+[00:43:38] [Server thread/INFO]: larryzhang lost connection: Disconnected
+[00:43:38] [Server thread/INFO]: larryzhang left the game
+[00:43:39] [Server thread/INFO]: larryzhang[/24.90.203.143:58891] logged in with entity id 56806 at (-94.57240457677715, 62.0, -53.52454364153265)
+[00:43:39] [Server thread/INFO]: larryzhang joined the game
+[00:43:40] [Netty Epoll Server IO #2/INFO]: Player larryzhang joined with a matching carpet client
+[00:44:10] [Server thread/INFO]: larryzhang lost connection: Disconnected
+[00:44:10] [Server thread/INFO]: larryzhang left the game
+[00:44:11] [Server thread/INFO]: larryzhang[/24.90.203.143:58896] logged in with entity id 56857 at (-94.57240457677715, 62.0, -53.52454364153265)
+[00:44:11] [Server thread/INFO]: larryzhang joined the game
+[00:44:12] [Netty Epoll Server IO #0/INFO]: Player larryzhang joined with a matching carpet client
+[01:02:05] [Server thread/INFO]: yongcheng_zhu[/67.84.80.125:13339] logged in with entity id 58817 at (-194.4545526457054, 57.0, -144.28297347751723)
+[01:02:05] [Server thread/INFO]: yongcheng_zhu joined the game
+[01:06:40] [Server thread/INFO]: yongcheng_zhu has made the advancement [Isn't It Iron Pick]
+[01:11:21] [Server thread/INFO]: yongcheng_zhu has made the advancement [Monster Hunter]
+[01:18:24] [Server thread/INFO]: yongcheng_zhu lost connection: Disconnected
+[01:18:24] [Server thread/INFO]: yongcheng_zhu left the game
+[01:28:09] [Server thread/INFO]: yongcheng_zhu[/67.84.80.125:14033] logged in with entity id 63670 at (-220.08239914201047, 70.0, -281.33597767567517)
+[01:28:09] [Server thread/INFO]: yongcheng_zhu joined the game
+[01:28:12] [Server thread/INFO]: yongcheng_zhu lost connection: Disconnected
+[01:28:12] [Server thread/INFO]: yongcheng_zhu left the game
+[02:24:29] [Server thread/INFO]: larryzhang lost connection: Disconnected
+[02:24:29] [Server thread/INFO]: larryzhang left the game
+[03:26:38] [Server thread/INFO]: larryzhang[/24.90.203.143:60062] logged in with entity id 68624 at (-26.69999998807907, 12.0, -51.79419821795221)
+[03:26:38] [Server thread/INFO]: larryzhang joined the game
+[03:26:39] [Netty Epoll Server IO #0/INFO]: Player larryzhang joined with a matching carpet client
+[03:36:40] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@693a95bc[id=15fda02e-5742-3201-b29c-64c076835060,name=Kar_Kay,properties={},legacy=false] (/98.113.142.248:55522): You are banned from this server.
+Reason: ban
+[03:36:40] [Server thread/INFO]: com.mojang.authlib.GameProfile@693a95bc[id=15fda02e-5742-3201-b29c-64c076835060,name=Kar_Kay,properties={},legacy=false] (/98.113.142.248:55522) lost connection: You are banned from this server.
+Reason: ban
+[03:36:41] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@4a90d3b2[id=15fda02e-5742-3201-b29c-64c076835060,name=Kar_Kay,properties={},legacy=false] (/98.113.142.248:55524): You are banned from this server.
+Reason: ban
+[03:36:41] [Server thread/INFO]: com.mojang.authlib.GameProfile@4a90d3b2[id=15fda02e-5742-3201-b29c-64c076835060,name=Kar_Kay,properties={},legacy=false] (/98.113.142.248:55524) lost connection: You are banned from this server.
+Reason: ban
+[04:24:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8942ms or 178 ticks behind
+[04:33:37] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/77844, l='ServerLevel[world]', x=-1132.50, y=68.00, z=-2909.50]
+[04:39:46] [Server thread/INFO]: larryzhang was blown up by Creeper
+[04:39:47] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.class_3204.method_14051(class_3204.java:202) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3898.method_18713(class_3898.java:2734) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3215.method_14096(class_3215.java:467) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3244.method_12063(class_3244.java:931) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2828.method_12272(class_2828.java:122) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2828$class_2829.method_11054(class_2828.java:56) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2600.method_11072(class_2600.java:21) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:144) ~[intermediary-server.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:761) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:155) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:118) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:743) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:737) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_5383(class_1255.java:103) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:721) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zli000$modifiedRunLoop(MinecraftServer.java:4819) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_275]
+[04:45:14] [Server thread/INFO]: overnightbot[local] logged in with entity id 81022 at (-92.74882063216002, 62.0, -48.32212038792107)
+[04:45:14] [Server thread/INFO]: overnightbot joined the game
+[04:45:20] [Server thread/INFO]: larryzhang lost connection: Disconnected
+[04:45:20] [Server thread/INFO]: larryzhang left the game
