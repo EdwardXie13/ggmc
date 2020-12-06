@@ -1,365 +1,212 @@
-[00:03:13] [Server thread/INFO]: larryzhang fell from a high place
-[01:06:50] [Server thread/INFO]: breederbot lost connection: Killed
-[01:06:50] [Server thread/INFO]: breederbot left the game
-[01:31:43] [Server thread/INFO]: [larryzhang: commandTrackAI: true, [change permanently?]]
-[01:32:03] [Server thread/FATAL]: Error executing task on Server
-java.lang.ClassCastException: java.lang.Boolean cannot be cast to net.minecraft.class_1269
-	at net.minecraft.class_1646.method_5992(class_1646.java) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1308.method_5688(class_1308.java:1136) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1657.method_7287(class_1657.java:1049) ~[intermediary-server.jar:?]
-	at net.minecraft.class_3244.method_12062(class_3244.java:1304) ~[intermediary-server.jar:?]
-	at net.minecraft.class_2824.method_12251(class_2824.java:74) ~[intermediary-server.jar:?]
-	at net.minecraft.class_2824.method_11054(class_2824.java:13) ~[intermediary-server.jar:?]
-	at net.minecraft.class_2600.method_11072(class_2600.java:21) ~[intermediary-server.jar:?]
-	at net.minecraft.class_3738.run(class_3738.java:18) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1255.method_18859(class_1255.java:144) ~[intermediary-server.jar:?]
-	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:761) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:155) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1255.method_16075(class_1255.java:118) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:743) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:737) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1255.method_18857(class_1255.java:127) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:722) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.handler$zli000$modifiedRunLoop(MinecraftServer.java:4819) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_275]
-[01:32:05] [Server thread/FATAL]: Error executing task on Server
-java.lang.ClassCastException: java.lang.Boolean cannot be cast to net.minecraft.class_1269
-	at net.minecraft.class_1646.method_5992(class_1646.java) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1308.method_5688(class_1308.java:1136) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1657.method_7287(class_1657.java:1049) ~[intermediary-server.jar:?]
-	at net.minecraft.class_3244.method_12062(class_3244.java:1304) ~[intermediary-server.jar:?]
-	at net.minecraft.class_2824.method_12251(class_2824.java:74) ~[intermediary-server.jar:?]
-	at net.minecraft.class_2824.method_11054(class_2824.java:13) ~[intermediary-server.jar:?]
-	at net.minecraft.class_2600.method_11072(class_2600.java:21) ~[intermediary-server.jar:?]
-	at net.minecraft.class_3738.run(class_3738.java:18) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1255.method_18859(class_1255.java:144) ~[intermediary-server.jar:?]
-	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:761) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:155) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1255.method_16075(class_1255.java:118) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:743) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:737) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1255.method_18857(class_1255.java:127) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:722) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.handler$zli000$modifiedRunLoop(MinecraftServer.java:4819) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_275]
-[01:32:07] [Server thread/FATAL]: Error executing task on Server
-java.lang.ClassCastException: java.lang.Boolean cannot be cast to net.minecraft.class_1269
-	at net.minecraft.class_1646.method_5992(class_1646.java) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1308.method_5688(class_1308.java:1136) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1657.method_7287(class_1657.java:1049) ~[intermediary-server.jar:?]
-	at net.minecraft.class_3244.method_12062(class_3244.java:1304) ~[intermediary-server.jar:?]
-	at net.minecraft.class_2824.method_12251(class_2824.java:74) ~[intermediary-server.jar:?]
-	at net.minecraft.class_2824.method_11054(class_2824.java:13) ~[intermediary-server.jar:?]
-	at net.minecraft.class_2600.method_11072(class_2600.java:21) ~[intermediary-server.jar:?]
-	at net.minecraft.class_3738.run(class_3738.java:18) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1255.method_18859(class_1255.java:144) ~[intermediary-server.jar:?]
-	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:761) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:155) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1255.method_16075(class_1255.java:118) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:743) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:737) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1255.method_18857(class_1255.java:127) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:722) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.handler$zli000$modifiedRunLoop(MinecraftServer.java:4819) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_275]
-[01:32:07] [Server thread/FATAL]: Error executing task on Server
-java.lang.ClassCastException: java.lang.Boolean cannot be cast to net.minecraft.class_1269
-	at net.minecraft.class_1646.method_5992(class_1646.java) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1308.method_5688(class_1308.java:1136) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1657.method_7287(class_1657.java:1049) ~[intermediary-server.jar:?]
-	at net.minecraft.class_3244.method_12062(class_3244.java:1304) ~[intermediary-server.jar:?]
-	at net.minecraft.class_2824.method_12251(class_2824.java:74) ~[intermediary-server.jar:?]
-	at net.minecraft.class_2824.method_11054(class_2824.java:13) ~[intermediary-server.jar:?]
-	at net.minecraft.class_2600.method_11072(class_2600.java:21) ~[intermediary-server.jar:?]
-	at net.minecraft.class_3738.run(class_3738.java:18) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1255.method_18859(class_1255.java:144) ~[intermediary-server.jar:?]
-	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:761) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:155) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1255.method_16075(class_1255.java:118) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:743) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:737) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1255.method_18857(class_1255.java:127) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:722) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.handler$zli000$modifiedRunLoop(MinecraftServer.java:4819) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_275]
-[01:32:08] [Server thread/FATAL]: Error executing task on Server
-java.lang.ClassCastException: java.lang.Boolean cannot be cast to net.minecraft.class_1269
-	at net.minecraft.class_1646.method_5992(class_1646.java) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1308.method_5688(class_1308.java:1136) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1657.method_7287(class_1657.java:1049) ~[intermediary-server.jar:?]
-	at net.minecraft.class_3244.method_12062(class_3244.java:1304) ~[intermediary-server.jar:?]
-	at net.minecraft.class_2824.method_12251(class_2824.java:74) ~[intermediary-server.jar:?]
-	at net.minecraft.class_2824.method_11054(class_2824.java:13) ~[intermediary-server.jar:?]
-	at net.minecraft.class_2600.method_11072(class_2600.java:21) ~[intermediary-server.jar:?]
-	at net.minecraft.class_3738.run(class_3738.java:18) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1255.method_18859(class_1255.java:144) ~[intermediary-server.jar:?]
-	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:761) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:155) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1255.method_16075(class_1255.java:118) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:743) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:737) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1255.method_18857(class_1255.java:127) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:722) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.handler$zli000$modifiedRunLoop(MinecraftServer.java:4819) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_275]
-[01:37:19] [Server thread/FATAL]: Error executing task on Server
-java.lang.ClassCastException: java.lang.Boolean cannot be cast to net.minecraft.class_1269
-	at net.minecraft.class_1646.method_5992(class_1646.java) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1308.method_5688(class_1308.java:1136) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1657.method_7287(class_1657.java:1049) ~[intermediary-server.jar:?]
-	at net.minecraft.class_3244.method_12062(class_3244.java:1304) ~[intermediary-server.jar:?]
-	at net.minecraft.class_2824.method_12251(class_2824.java:74) ~[intermediary-server.jar:?]
-	at net.minecraft.class_2824.method_11054(class_2824.java:13) ~[intermediary-server.jar:?]
-	at net.minecraft.class_2600.method_11072(class_2600.java:21) ~[intermediary-server.jar:?]
-	at net.minecraft.class_3738.run(class_3738.java:18) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1255.method_18859(class_1255.java:144) ~[intermediary-server.jar:?]
-	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:761) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:155) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1255.method_16075(class_1255.java:118) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:743) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:737) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1255.method_18857(class_1255.java:127) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:722) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.handler$zli000$modifiedRunLoop(MinecraftServer.java:4819) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_275]
-[01:38:08] [Server thread/FATAL]: Error executing task on Server
-java.lang.ClassCastException: java.lang.Boolean cannot be cast to net.minecraft.class_1269
-	at net.minecraft.class_1646.method_5992(class_1646.java) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1308.method_5688(class_1308.java:1136) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1657.method_7287(class_1657.java:1049) ~[intermediary-server.jar:?]
-	at net.minecraft.class_3244.method_12062(class_3244.java:1304) ~[intermediary-server.jar:?]
-	at net.minecraft.class_2824.method_12251(class_2824.java:74) ~[intermediary-server.jar:?]
-	at net.minecraft.class_2824.method_11054(class_2824.java:13) ~[intermediary-server.jar:?]
-	at net.minecraft.class_2600.method_11072(class_2600.java:21) ~[intermediary-server.jar:?]
-	at net.minecraft.class_3738.run(class_3738.java:18) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1255.method_18859(class_1255.java:144) ~[intermediary-server.jar:?]
-	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:761) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:155) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1255.method_16075(class_1255.java:118) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:743) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:737) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1255.method_18857(class_1255.java:127) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:722) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.handler$zli000$modifiedRunLoop(MinecraftServer.java:4819) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_275]
-[01:38:09] [Server thread/FATAL]: Error executing task on Server
-java.lang.ClassCastException: java.lang.Boolean cannot be cast to net.minecraft.class_1269
-	at net.minecraft.class_1646.method_5992(class_1646.java) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1308.method_5688(class_1308.java:1136) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1657.method_7287(class_1657.java:1049) ~[intermediary-server.jar:?]
-	at net.minecraft.class_3244.method_12062(class_3244.java:1304) ~[intermediary-server.jar:?]
-	at net.minecraft.class_2824.method_12251(class_2824.java:74) ~[intermediary-server.jar:?]
-	at net.minecraft.class_2824.method_11054(class_2824.java:13) ~[intermediary-server.jar:?]
-	at net.minecraft.class_2600.method_11072(class_2600.java:21) ~[intermediary-server.jar:?]
-	at net.minecraft.class_3738.run(class_3738.java:18) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1255.method_18859(class_1255.java:144) ~[intermediary-server.jar:?]
-	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:761) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:155) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1255.method_16075(class_1255.java:118) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:743) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:737) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1255.method_18857(class_1255.java:127) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:722) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.handler$zli000$modifiedRunLoop(MinecraftServer.java:4819) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_275]
-[01:38:09] [Server thread/FATAL]: Error executing task on Server
-java.lang.ClassCastException: java.lang.Boolean cannot be cast to net.minecraft.class_1269
-	at net.minecraft.class_1646.method_5992(class_1646.java) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1308.method_5688(class_1308.java:1136) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1657.method_7287(class_1657.java:1049) ~[intermediary-server.jar:?]
-	at net.minecraft.class_3244.method_12062(class_3244.java:1304) ~[intermediary-server.jar:?]
-	at net.minecraft.class_2824.method_12251(class_2824.java:74) ~[intermediary-server.jar:?]
-	at net.minecraft.class_2824.method_11054(class_2824.java:13) ~[intermediary-server.jar:?]
-	at net.minecraft.class_2600.method_11072(class_2600.java:21) ~[intermediary-server.jar:?]
-	at net.minecraft.class_3738.run(class_3738.java:18) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1255.method_18859(class_1255.java:144) ~[intermediary-server.jar:?]
-	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:761) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:155) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1255.method_16075(class_1255.java:118) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:743) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:737) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1255.method_5383(class_1255.java:103) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:721) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.handler$zli000$modifiedRunLoop(MinecraftServer.java:4819) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_275]
-[01:38:09] [Server thread/FATAL]: Error executing task on Server
-java.lang.ClassCastException: java.lang.Boolean cannot be cast to net.minecraft.class_1269
-	at net.minecraft.class_1646.method_5992(class_1646.java) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1308.method_5688(class_1308.java:1136) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1657.method_7287(class_1657.java:1049) ~[intermediary-server.jar:?]
-	at net.minecraft.class_3244.method_12062(class_3244.java:1304) ~[intermediary-server.jar:?]
-	at net.minecraft.class_2824.method_12251(class_2824.java:74) ~[intermediary-server.jar:?]
-	at net.minecraft.class_2824.method_11054(class_2824.java:13) ~[intermediary-server.jar:?]
-	at net.minecraft.class_2600.method_11072(class_2600.java:21) ~[intermediary-server.jar:?]
-	at net.minecraft.class_3738.run(class_3738.java:18) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1255.method_18859(class_1255.java:144) ~[intermediary-server.jar:?]
-	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:761) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:155) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1255.method_16075(class_1255.java:118) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:743) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:737) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1255.method_18857(class_1255.java:127) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:722) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.handler$zli000$modifiedRunLoop(MinecraftServer.java:4819) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_275]
-[01:38:10] [Server thread/FATAL]: Error executing task on Server
-java.lang.ClassCastException: java.lang.Boolean cannot be cast to net.minecraft.class_1269
-	at net.minecraft.class_1646.method_5992(class_1646.java) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1308.method_5688(class_1308.java:1136) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1657.method_7287(class_1657.java:1049) ~[intermediary-server.jar:?]
-	at net.minecraft.class_3244.method_12062(class_3244.java:1304) ~[intermediary-server.jar:?]
-	at net.minecraft.class_2824.method_12251(class_2824.java:74) ~[intermediary-server.jar:?]
-	at net.minecraft.class_2824.method_11054(class_2824.java:13) ~[intermediary-server.jar:?]
-	at net.minecraft.class_2600.method_11072(class_2600.java:21) ~[intermediary-server.jar:?]
-	at net.minecraft.class_3738.run(class_3738.java:18) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1255.method_18859(class_1255.java:144) ~[intermediary-server.jar:?]
-	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:761) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:155) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1255.method_16075(class_1255.java:118) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:743) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:737) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1255.method_18857(class_1255.java:127) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:722) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.handler$zli000$modifiedRunLoop(MinecraftServer.java:4819) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_275]
-[01:38:11] [Server thread/FATAL]: Error executing task on Server
-java.lang.ClassCastException: java.lang.Boolean cannot be cast to net.minecraft.class_1269
-	at net.minecraft.class_1646.method_5992(class_1646.java) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1308.method_5688(class_1308.java:1136) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1657.method_7287(class_1657.java:1049) ~[intermediary-server.jar:?]
-	at net.minecraft.class_3244.method_12062(class_3244.java:1304) ~[intermediary-server.jar:?]
-	at net.minecraft.class_2824.method_12251(class_2824.java:74) ~[intermediary-server.jar:?]
-	at net.minecraft.class_2824.method_11054(class_2824.java:13) ~[intermediary-server.jar:?]
-	at net.minecraft.class_2600.method_11072(class_2600.java:21) ~[intermediary-server.jar:?]
-	at net.minecraft.class_3738.run(class_3738.java:18) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1255.method_18859(class_1255.java:144) ~[intermediary-server.jar:?]
-	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:761) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:155) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1255.method_16075(class_1255.java:118) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:743) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:737) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1255.method_18857(class_1255.java:127) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:722) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.handler$zli000$modifiedRunLoop(MinecraftServer.java:4819) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_275]
-[01:38:12] [Server thread/FATAL]: Error executing task on Server
-java.lang.ClassCastException: java.lang.Boolean cannot be cast to net.minecraft.class_1269
-	at net.minecraft.class_1646.method_5992(class_1646.java) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1308.method_5688(class_1308.java:1136) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1657.method_7287(class_1657.java:1049) ~[intermediary-server.jar:?]
-	at net.minecraft.class_3244.method_12062(class_3244.java:1304) ~[intermediary-server.jar:?]
-	at net.minecraft.class_2824.method_12251(class_2824.java:74) ~[intermediary-server.jar:?]
-	at net.minecraft.class_2824.method_11054(class_2824.java:13) ~[intermediary-server.jar:?]
-	at net.minecraft.class_2600.method_11072(class_2600.java:21) ~[intermediary-server.jar:?]
-	at net.minecraft.class_3738.run(class_3738.java:18) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1255.method_18859(class_1255.java:144) ~[intermediary-server.jar:?]
-	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:761) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:155) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1255.method_16075(class_1255.java:118) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:743) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:737) ~[intermediary-server.jar:?]
-	at net.minecraft.class_1255.method_18857(class_1255.java:127) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:722) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.handler$zli000$modifiedRunLoop(MinecraftServer.java:4819) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_275]
-[01:38:23] [Server thread/INFO]: [larryzhang: commandTrackAI: false, [change permanently?]]
-[01:38:36] [Server thread/INFO]: [larryzhang: Rule commandTrackAI will now default to false]
-[01:41:56] [Server thread/INFO]: larryzhang fell from a high place
-[01:56:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/85156, l='ServerLevel[world]', x=-257.63, y=167.32, z=-306.84]
-[01:57:55] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/85358, l='ServerLevel[world]', x=-257.70, y=167.32, z=-306.66]
-[01:58:04] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/85408, l='ServerLevel[world]', x=-256.55, y=167.32, z=-306.84]
-[02:05:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/86442, l='ServerLevel[world]', x=-257.48, y=167.32, z=-307.70]
-[02:05:29] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/86448, l='ServerLevel[world]', x=-257.48, y=167.32, z=-307.70]
-[02:05:29] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/86452, l='ServerLevel[world]', x=-257.48, y=167.32, z=-307.70]
-[02:05:30] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/86459, l='ServerLevel[world]', x=-257.48, y=167.32, z=-307.70]
-[02:05:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/86482, l='ServerLevel[world]', x=-256.30, y=167.32, z=-306.33]
-[02:05:34] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/86492, l='ServerLevel[world]', x=-256.30, y=167.32, z=-306.33]
-[02:22:16] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/89079, l='ServerLevel[world]', x=-257.66, y=167.32, z=-306.75]
-[02:22:17] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/89087, l='ServerLevel[world]', x=-257.70, y=167.32, z=-306.66]
-[02:25:41] [Server thread/INFO]: larryzhang has made the advancement [Ol' Betsy]
-[02:26:06] [Server thread/INFO]: larryzhang has made the advancement [Take Aim]
-[02:28:32] [Server thread/INFO]: Villager class_1646['Villager'/88671, l='ServerLevel[world]', x=-256.31, y=169.00, z=-306.85] died, message: 'Villager was slain by larryzhang'
-[02:32:05] [Server thread/INFO]: Villager class_1646['Villager'/53787, l='ServerLevel[world]', x=-261.65, y=63.00, z=-307.35] died, message: 'Villager hit the ground too hard'
-[03:07:07] [Server thread/INFO]: Villager class_1646['Villager'/95418, l='ServerLevel[world]', x=-260.87, y=63.00, z=-309.14] died, message: 'Villager hit the ground too hard'
-[03:09:25] [Server thread/INFO]: Villager class_1646['Villager'/94537, l='ServerLevel[world]', x=-261.72, y=63.00, z=-307.82] died, message: 'Villager hit the ground too hard whilst trying to escape larryzhang'
-[03:23:39] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/98995, l='ServerLevel[world]', x=-256.72, y=167.32, z=-306.10]
-[03:23:42] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/99003, l='ServerLevel[world]', x=-256.88, y=167.32, z=-306.08]
-[03:26:41] [Server thread/INFO]: Villager class_1646['Villager'/87392, l='ServerLevel[world]', x=-292.67, y=65.00, z=-367.30] died, message: 'Villager was slain by Zombie'
-[03:45:34] [Server thread/INFO]: Villager class_1646['Villager'/97643, l='ServerLevel[world]', x=-304.30, y=72.00, z=-299.76] died, message: 'Villager was slain by Zombie'
-[03:53:57] [Server thread/INFO]: Villager class_1646['Villager'/101522, l='ServerLevel[world]', x=-262.74, y=64.00, z=-310.71] died, message: 'Villager hit the ground too hard'
-[03:54:01] [Server thread/INFO]: Villager class_1646['Villager'/100140, l='ServerLevel[world]', x=-258.15, y=63.00, z=-308.31] died, message: 'Villager hit the ground too hard'
-[03:57:40] [Server thread/INFO]: breederbot[local] logged in with entity id 104762 at (-257.46985756848323, 161.0, -312.76285427513744)
-[03:57:40] [Server thread/INFO]: breederbot joined the game
-[03:59:02] [Server thread/INFO]: larryzhang lost connection: Disconnected
-[03:59:02] [Server thread/INFO]: larryzhang left the game
-[04:20:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/107244, l='ServerLevel[world]', x=-257.70, y=167.32, z=-306.49]
-[04:53:42] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/111240, l='ServerLevel[world]', x=-257.61, y=167.32, z=-306.78]
-[04:55:09] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/111525, l='ServerLevel[world]', x=-257.01, y=167.32, z=-307.34]
-[05:02:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/112715, l='ServerLevel[world]', x=-257.30, y=167.32, z=-306.43]
-[05:14:05] [Server thread/INFO]: Villager class_1646['Villager'/111287, l='ServerLevel[world]', x=-256.95, y=167.00, z=-306.30] died, message: 'Villager suffocated in a wall'
-[05:53:53] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/118542, l='ServerLevel[world]', x=-257.30, y=167.32, z=-306.45]
-[05:53:54] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/118547, l='ServerLevel[world]', x=-257.30, y=167.32, z=-306.41]
-[06:23:19] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/122419, l='ServerLevel[world]', x=-257.70, y=167.32, z=-306.47]
-[06:34:04] [Server thread/INFO]: Villager class_1646['Villager'/121007, l='ServerLevel[world]', x=-257.11, y=167.00, z=-306.30] died, message: 'Villager suffocated in a wall'
-[07:14:03] [Server thread/INFO]: Villager class_1646['Villager'/125725, l='ServerLevel[world]', x=-257.11, y=167.00, z=-306.30] died, message: 'Villager suffocated in a wall'
-[07:34:03] [Server thread/INFO]: Villager class_1646['Villager'/128316, l='ServerLevel[world]', x=-256.72, y=167.00, z=-306.30] died, message: 'Villager suffocated in a wall'
-[07:54:07] [Server thread/INFO]: Villager class_1646['Villager'/130723, l='ServerLevel[world]', x=-256.70, y=167.00, z=-306.30] died, message: 'Villager suffocated in a wall'
-[08:14:02] [Server thread/INFO]: Villager class_1646['Villager'/133090, l='ServerLevel[world]', x=-256.61, y=167.00, z=-306.30] died, message: 'Villager suffocated in a wall'
-[08:34:02] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/137927, l='ServerLevel[world]', x=-256.86, y=167.32, z=-307.30]
-[08:34:02] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/137932, l='ServerLevel[world]', x=-257.03, y=167.32, z=-307.30]
-[08:34:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/137940, l='ServerLevel[world]', x=-256.99, y=167.32, z=-307.30]
-[08:54:42] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/141083, l='ServerLevel[world]', x=-257.30, y=167.32, z=-306.47]
-[09:14:03] [Server thread/INFO]: Villager class_1646['Villager'/140962, l='ServerLevel[world]', x=-256.98, y=167.00, z=-306.30] died, message: 'Villager suffocated in a wall'
-[09:41:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/147151, l='ServerLevel[world]', x=-257.30, y=167.32, z=-306.52]
-[09:42:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/147699, l='ServerLevel[world]', x=-257.70, y=167.32, z=-306.56]
-[09:54:04] [Server thread/INFO]: Villager class_1646['Villager'/145953, l='ServerLevel[world]', x=-256.70, y=167.00, z=-306.30] died, message: 'Villager suffocated in a wall'
-[10:02:24] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/150123, l='ServerLevel[world]', x=-257.70, y=167.32, z=-306.40]
-[10:14:06] [Server thread/INFO]: Villager class_1646['Villager'/148731, l='ServerLevel[world]', x=-256.71, y=167.00, z=-306.30] died, message: 'Villager suffocated in a wall'
-[10:42:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/155201, l='ServerLevel[world]', x=-257.70, y=167.32, z=-307.29]
-[11:14:08] [Server thread/INFO]: Villager class_1646['Villager'/156323, l='ServerLevel[world]', x=-256.77, y=167.00, z=-306.30] died, message: 'Villager suffocated in a wall'
-[11:34:02] [Server thread/INFO]: Villager class_1646['Villager'/158742, l='ServerLevel[world]', x=-256.76, y=167.00, z=-306.30] died, message: 'Villager suffocated in a wall'
-[11:41:19] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/166313, l='ServerLevel[world]', x=-256.96, y=167.32, z=-307.42]
-[11:54:02] [Server thread/INFO]: Villager class_1646['Villager'/163078, l='ServerLevel[world]', x=-256.65, y=167.00, z=-306.30] died, message: 'Villager suffocated in a wall'
-[12:14:02] [Server thread/INFO]: Villager class_1646['Villager'/168286, l='ServerLevel[world]', x=-256.63, y=167.00, z=-306.30] died, message: 'Villager suffocated in a wall'
-[12:54:02] [Server thread/INFO]: Villager class_1646['Villager'/179755, l='ServerLevel[world]', x=-256.84, y=167.00, z=-306.70] died, message: 'Villager suffocated in a wall'
-[12:54:56] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/187638, l='ServerLevel[world]', x=-257.30, y=167.32, z=-306.39]
-[12:54:56] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/187658, l='ServerLevel[world]', x=-257.30, y=167.32, z=-306.31]
+[13:05:45] [main/INFO]: Loading for game Minecraft 1.16.4
+[13:05:46] [main/WARN]: Warnings were found! 
+ - Mod 'InfiniteVillagerTrading' (infinitevillagertrading) recommends any version of mod modmenu, which is missing!
+	 - You must install any version of modmenu.
+ - Mod 'InfiniteVillagerTrading' (infinitevillagertrading) recommends version 1.1.7 or later of mod modupdater, which is missing!
+	 - You must install version 1.1.7 or later of modupdater.
+[13:05:46] [main/INFO]: [FabricLoader] Loading 54 mods: fabric-renderer-api-v1@0.3.3+6a2618f53a, fabric-keybindings-v0@0.2.0+6a2618f53a, fabricloader@0.10.8, automated_crafting@1.3.13+MC1.16.2-1.16.4, fabric-structure-api-v1@1.1.1+f1d8af063a, fabric-containers-v0@0.1.8+6a2618f53a, lithium@0.6.0, falling_tree@2.7.0, fabric-object-builder-api-v1@1.9.2+6a2618f53a, fabric-game-rule-api-v1@1.0.3+a4467d2a3a, fabric-api-base@0.2.0+ab87788d3a, fabric-rendering-data-attachment-v1@0.1.4+6a2618f53a, fabric-textures-v0@1.0.5+6a2618f53a, fabric-rendering-fluids-v1@0.1.12+6a2618f53a, environmentalcreepers@1.6.1, fabric-blockrenderlayer-v1@1.1.4+6a2618f53a, fabric-lifecycle-events-v1@1.2.0+6a2618f53a, fabric-renderer-registries-v1@2.2.0+6a2618f53a, carpet-extra@1.4.16, fabric-loot-tables-v1@1.0.1+6a2618f53a, fabric@0.26.3+1.16, carpet@1.4.19, fabric-particles-v1@0.2.2+6a2618f53a, fabric-networking-v0@0.1.10+6a2618f53a, fabric-networking-blockentity-v0@0.2.5+6a2618f53a, minecraft@1.16.4, fabric-screen-handler-api-v1@1.1.0+6a2618f53a, jankson@3.0.1+j1.2.0, cloth-basic-math@0.5.1, fabric-command-api-v1@1.0.9+6a2618f53a, fabric-tool-attribute-api-v1@1.2.5+6a2618f53a, fabric-renderer-indigo@0.4.3+6a2618f53a, fabric-events-interaction-v0@0.4.1+6a2618f53a, fabric-crash-report-info-v1@0.1.2+b7f9825d3a, fabric-item-api-v1@1.2.0+6a2618f53a, libgui@3.2.1+1.16.3, fabric-rendering-v0@1.1.1+6a2618f53a, fabric-key-binding-api-v1@1.0.1+730711c63a, fabric-rendering-v1@1.4.0+6a2618f53a, cloth-config2@4.8.2, autoconfig1u@3.3.1, fabric-resource-loader-v0@0.3.2+1944f3e03a, fabric-content-registries-v0@0.1.9+6a2618f53a, fabric-tag-extensions-v0@1.0.3+6a2618f53a, infinitevillagertrading@1.16.2-fabric0.17.2-1.1, fabric-biome-api-v1@3.1.0+2e23b97c3a, fabric-commands-v0@0.2.0+6a2618f53a, fabric-registry-sync-v0@0.7.1+285766753a, fabric-mining-levels-v0@0.1.2+6a2618f53a, fabric-events-lifecycle-v0@0.2.0+6a2618f53a, fabric-models-v0@0.1.1+6a2618f53a, fabric-item-groups-v0@0.2.1+6a2618f53a, fabric-object-builders-v0@0.7.1+6a2618f53a, lithium-api@0.6.0
+[13:05:46] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/home/edwardxie121/ggmc/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[13:05:50] [main/WARN]: @Mixin target net/minecraft/class_3898$class_3208 is public in fabric-networking-[13:06:03] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13:06:05] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:06:05] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:06:05] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:06:05] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:06:05] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:06:06] [main/INFO]: Reloading ResourceManager: Default, Fabric Tool Attribute API (v1), Automated Crafting
+[13:06:07] [Worker-Main-2/INFO]: Loaded 7 recipes
+[13:06:08] [Worker-Main-2/INFO]: Loaded 927 advancements
+[13:06:10] [main/INFO]: Applied 0 biome modifications to 0 of 79 new biomes in 6.764 ms
+[13:06:10] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[13:06:10] [Server thread/INFO]: Loading properties
+[13:06:10] [Server thread/INFO]: Default game type: SURVIVAL
+[13:06:10] [Server thread/INFO]: Generating keypair
+[13:06:10] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Bad file descriptor
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_275]
+	at java.io.FileInputStream.read(FileInputStream.java:255) ~[?:1.8.0_275]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:284) ~[?:1.8.0_275]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:345) ~[?:1.8.0_275]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284) ~[?:1.8.0_275]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326) ~[?:1.8.0_275]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:1.8.0_275]
+	at java.io.InputStreamReader.read(InputStreamReader.java:184) ~[?:1.8.0_275]
+	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:1.8.0_275]
+	at java.io.BufferedReader.readLine(BufferedReader.java:324) ~[?:1.8.0_275]
+	at java.io.BufferedReader.readLine(BufferedReader.java:389) ~[?:1.8.0_275]
+	at net.minecraft.class_3176$1.run(class_3176.java:95) [intermediary-server.jar:?]
+[13:06:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:06:11] [Server thread/INFO]: Using epoll channel type
+[13:06:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:06:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:06:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:06:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:06:11] [Server thread/INFO]: Preparing level "world"
+[13:06:11] [Server thread/INFO]: [CM]: loaded setting silverFishDropGravel as true from carpet.conf
+[13:06:11] [Server thread/INFO]: [CM]: loaded setting carpets as false from carpet.conf
+[13:06:11] [Server thread/INFO]: [CM]: loaded setting combineXPOrbs as true from carpet.conf
+[13:06:11] [Server thread/INFO]: [CM]: loaded setting commandLog as true from carpet.conf
+[13:06:11] [Server thread/INFO]: [CM]: loaded setting commandPerimeterInfo as true from carpet.conf
+[13:06:11] [Server thread/INFO]: [CM]: loaded setting tntPrimerMomentumRemoved as true from carpet.conf
+[13:06:11] [Server thread/INFO]: [CM]: loaded setting xpNoCooldown as true from carpet.conf
+[13:06:11] [Server thread/INFO]: [CM]: loaded setting commandTrackAI as false from carpet.conf
+[13:06:11] [Server thread/INFO]: [CM]: loaded setting ctrlQCraftingFix as true from carpet.conf
+[13:06:11] [Server thread/INFO]: [CM]: loaded setting fogOff as false from carpet.conf
+[13:06:11] [Server thread/INFO]: [CM]: loaded setting commandDistance as false from carpet.conf
+[13:06:11] [Server thread/INFO]: [CM]: loaded setting fastRedstoneDust as true from carpet.conf
+[13:06:11] [Server thread/INFO]: [CM]: loaded setting fillLimit as 1000000 from carpet.conf
+[13:06:11] [Server thread/INFO]: [CM]: loaded setting antiCheatDisabled as true from carpet.conf
+[13:06:11] [Server thread/INFO]: [CM]: loaded setting commandSpawn as false from carpet.conf
+[13:06:11] [Server thread/INFO]: [CM]: loaded setting stackableShulkerBoxes as false from carpet.conf
+[13:06:11] [Server thread/INFO]: [CM]: loaded setting shulkerSpawningInEndCities as false from carpet.conf
+[13:06:11] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
+[13:06:11] [Server thread/INFO]: [CM]: loaded setting clericsFarmWarts as true from carpet.conf
+[13:06:11] [Server thread/INFO]: [CM]: loaded setting smoothClientAnimations as true from carpet.conf
+[13:06:11] [Server thread/INFO]: [CM]: loaded setting autoCraftingDropper as false from carpet.conf
+[13:06:11] [Server thread/INFO]: [CM]: loaded setting commandTick as false from carpet.conf
+[13:06:11] [Server thread/INFO]: [CM]: loaded setting commandDraw as false from carpet.conf
+[13:06:11] [Server thread/INFO]: [CM]: loaded setting commandScript as false from carpet.conf
+[13:06:11] [Server thread/INFO]: [CM]: loaded setting defaultLoggers as mobcaps,tps from carpet.conf
+[13:06:11] [Server thread/INFO]: [CM]: loaded setting optimizedTNT as true from carpet.conf
+[13:06:11] [Server thread/INFO]: [CM]: loaded setting commandInfo as false from carpet.conf
+[13:06:11] [Server thread/INFO]: [CM]: loaded setting flippinCactus as true from carpet.conf
+[13:06:11] [Server thread/INFO]: [CM]: loaded setting lagFreeSpawning as true from carpet.conf
+[13:06:11] [Server thread/INFO]: [CM]: loaded setting viewDistance as 0 from carpet.conf
+[13:06:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:06:14] [Server thread/INFO]: Preparing spawn area: 0%
+[13:06:14] [Server thread/INFO]: Preparing spawn area: 0%
+[13:06:14] [Server thread/INFO]: Preparing spawn area: 0%
+[13:06:14] [Server thread/INFO]: Preparing spawn area: 0%
+[13:06:14] [Server thread/INFO]: Preparing spawn area: 0%
+[13:06:14] [Server thread/INFO]: Preparing spawn area: 0%
+[13:06:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:06:15] [Server thread/INFO]: Preparing spawn area: 30%
+[13:06:15] [Server thread/INFO]: Preparing spawn area: 71%
+[13:06:16] [Server thread/INFO]: Time elapsed: 4686 ms
+[13:06:16] [Server thread/INFO]: Done (5.165s)! For help, type "help"
+[14:55:23] [Server thread/INFO]: larryzhang[/24.90.203.143:51007] logged in with entity id 121 at (-256.2358640704735, 161.0, -313.002346007571)
+[14:55:23] [Server thread/INFO]: larryzhang joined the game
+[14:55:24] [Netty Epoll Server IO #2/INFO]: Player larryzhang joined with a matching carpet client
+[14:57:16] [Server thread/INFO]: breederbot[local] logged in with entity id 488 at (-258.76249998807907, 161.0, -311.23750001192093)
+[14:57:16] [Server thread/INFO]: breederbot joined the game
+[14:57:19] [Server thread/INFO]: larryzhang lost connection: Disconnected
+[14:57:19] [Server thread/INFO]: larryzhang left the game
+[15:02:37] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6480, l='ServerLevel[world]', x=-257.70, y=167.32, z=-306.60]
+[15:17:59] [Server thread/INFO]: Villager class_1646['Villager'/825, l='ServerLevel[world]', x=-256.60, y=167.00, z=-306.30] died, message: 'Villager suffocated in a wall'
+[15:23:14] [Server thread/INFO]: Villager class_1646['Villager'/6991, l='ServerLevel[world]', x=-256.32, y=167.00, z=-306.70] died, message: 'Villager suffocated in a wall'
+[15:31:52] [Server thread/INFO]: larryzhang[/24.90.203.143:51143] logged in with entity id 19145 at (-258.76249998807907, 161.0, -311.23750001192093)
+[15:31:52] [Server thread/INFO]: larryzhang joined the game
+[15:31:53] [Netty Epoll Server IO #0/INFO]: Player larryzhang joined with a matching carpet client
+[15:33:06] [Server thread/INFO]: breederbot lost connection: Killed
+[15:33:06] [Server thread/INFO]: breederbot left the game
+[15:33:40] [Server thread/INFO]: Villager class_1646['Villager'/139, l='ServerLevel[world]', x=-259.24, y=63.00, z=-309.68] died, message: 'Villager hit the ground too hard'
+[15:34:15] [Server thread/INFO]: Villager class_1646['Villager'/152, l='ServerLevel[world]', x=-248.87, y=64.00, z=-315.96] died, message: 'Villager hit the ground too hard'
+[15:34:20] [Server thread/INFO]: Villager class_1646['Villager'/132, l='ServerLevel[world]', x=-246.41, y=64.00, z=-314.70] died, message: 'Villager hit the ground too hard'
+[15:34:20] [Server thread/INFO]: Villager class_1646['Villager'/161, l='ServerLevel[world]', x=-248.53, y=64.00, z=-314.51] died, message: 'Villager hit the ground too hard'
+[15:34:21] [Server thread/INFO]: Villager class_1646['Villager'/151, l='ServerLevel[world]', x=-246.20, y=64.00, z=-316.46] died, message: 'Villager hit the ground too hard'
+[15:34:24] [Server thread/INFO]: Villager class_1646['Villager'/129, l='ServerLevel[world]', x=-248.87, y=64.00, z=-314.90] died, message: 'Villager hit the ground too hard'
+[15:34:25] [Server thread/INFO]: Villager class_1646['Villager'/165, l='ServerLevel[world]', x=-246.59, y=65.00, z=-314.02] died, message: 'Villager hit the ground too hard'
+[15:34:29] [Server thread/INFO]: Villager class_1646['Villager'/145, l='ServerLevel[world]', x=-246.59, y=64.00, z=-315.50] died, message: 'Villager hit the ground too hard'
+[15:34:29] [Server thread/INFO]: Villager class_1646['Villager'/153, l='ServerLevel[world]', x=-248.30, y=64.00, z=-314.67] died, message: 'Villager hit the ground too hard'
+[15:34:38] [Server thread/INFO]: Villager class_1646['Villager'/130, l='ServerLevel[world]', x=-260.30, y=63.00, z=-308.01] died, message: 'Villager hit the ground too hard'
+[15:34:42] [Server thread/INFO]: Villager class_1646['Villager'/157, l='ServerLevel[world]', x=-260.54, y=63.00, z=-308.66] died, message: 'Villager hit the ground too hard'
+[15:34:48] [Server thread/INFO]: Villager class_1646['Villager'/146, l='ServerLevel[world]', x=-246.33, y=64.00, z=-317.85] died, message: 'Villager hit the ground too hard'
+[15:35:02] [Server thread/INFO]: Villager class_1646['Villager'/11335, l='ServerLevel[world]', x=-248.28, y=64.00, z=-314.34] died, message: 'Villager hit the ground too hard'
+[15:35:09] [Server thread/INFO]: Villager class_1646['Villager'/134, l='ServerLevel[world]', x=-248.45, y=67.00, z=-311.66] died, message: 'Villager hit the ground too hard'
+[15:35:58] [Server thread/INFO]: Villager class_1646['Villager'/156, l='ServerLevel[world]', x=-246.49, y=64.00, z=-335.27] died, message: 'Villager hit the ground too hard'
+[15:36:22] [Server thread/INFO]: Villager class_1646['Villager'/127, l='ServerLevel[world]', x=-246.14, y=64.00, z=-318.20] died, message: 'Villager hit the ground too hard'
+[15:36:24] [Server thread/INFO]: Villager class_1646['Villager'/15198, l='ServerLevel[world]', x=-246.78, y=64.00, z=-317.02] died, message: 'Villager hit the ground too hard'
+[15:36:36] [Server thread/INFO]: Villager class_1646['Villager'/135, l='ServerLevel[world]', x=-249.29, y=64.00, z=-323.30] died, message: 'Villager was slain by Zombie'
+[15:36:40] [Server thread/INFO]: Villager class_1646['Villager'/131, l='ServerLevel[world]', x=-246.57, y=64.00, z=-317.62] died, message: 'Villager hit the ground too hard'
+[15:36:52] [Server thread/INFO]: Villager class_1646['Villager'/149, l='ServerLevel[world]', x=-248.65, y=64.00, z=-318.41] died, message: 'Villager hit the ground too hard'
+[15:36:54] [Server thread/INFO]: Villager class_1646['Villager'/133, l='ServerLevel[world]', x=-248.35, y=64.00, z=-318.49] died, message: 'Villager hit the ground too hard'
+[15:37:13] [Server thread/INFO]: Villager class_1646['Villager'/140, l='ServerLevel[world]', x=-246.32, y=64.00, z=-318.83] died, message: 'Villager hit the ground too hard'
+[15:37:30] [Server thread/INFO]: Villager class_1646['Villager'/163, l='ServerLevel[world]', x=-248.88, y=64.00, z=-313.93] died, message: 'Villager hit the ground too hard'
+[15:37:41] [Server thread/INFO]: Villager class_1646['Villager'/137, l='ServerLevel[world]', x=-248.34, y=64.00, z=-319.63] died, message: 'Villager hit the ground too hard'
+[15:38:30] [Server thread/INFO]: Villager class_1646['Villager'/143, l='ServerLevel[world]', x=-248.42, y=64.00, z=-319.37] died, message: 'Villager hit the ground too hard'
+[15:38:33] [Server thread/INFO]: Villager class_1646['Villager'/150, l='ServerLevel[world]', x=-246.64, y=64.00, z=-318.13] died, message: 'Villager hit the ground too hard'
+[15:39:28] [Server thread/INFO]: Villager class_1646['Villager'/20074, l='ServerLevel[world]', x=-249.18, y=63.00, z=-311.87] died, message: 'Villager hit the ground too hard'
+[15:39:36] [Server thread/INFO]: Villager class_1646['Villager'/159, l='ServerLevel[world]', x=-248.31, y=64.00, z=-319.10] died, message: 'Villager hit the ground too hard'
+[16:08:23] [Server thread/INFO]: Villager class_1646['Villager'/28965, l='ServerLevel[world]', x=-255.72, y=64.00, z=-312.36] died, message: 'Villager hit the ground too hard'
+[16:12:23] [Server thread/INFO]: Villager class_1646['Villager'/158, l='ServerLevel[world]', x=-246.16, y=64.00, z=-315.00] died, message: 'Villager hit the ground too hard'
+[16:12:47] [Server thread/INFO]: Villager class_1646['Villager'/28168, l='ServerLevel[world]', x=-245.30, y=64.00, z=-333.57] died, message: 'Villager hit the ground too hard whilst trying to escape larryzhang'
+[16:23:20] [Server thread/INFO]: larryzhang fell from a high place
+[16:25:39] [Server thread/INFO]: larryzhang fell from a high place
+[16:28:52] [Server thread/INFO]: Villager class_1646['Villager'/136, l='ServerLevel[world]', x=-263.01, y=64.00, z=-305.97] died, message: 'Villager hit the ground too hard'
+[16:29:28] [Server thread/INFO]: Villager class_1646['Villager'/162, l='ServerLevel[world]', x=-261.30, y=63.00, z=-307.70] died, message: 'Villager hit the ground too hard'
+[16:29:31] [Server thread/INFO]: Villager class_1646['Villager'/154, l='ServerLevel[world]', x=-258.46, y=64.00, z=-316.58] died, message: 'Villager hit the ground too hard'
+[16:30:48] [Server thread/INFO]: Villager class_1646['Villager'/167, l='ServerLevel[world]', x=-256.70, y=169.00, z=-305.71] died, message: 'Villager was slain by larryzhang'
+[16:31:07] [Server thread/INFO]: Villager class_1646['Villager'/138, l='ServerLevel[world]', x=-258.30, y=63.00, z=-309.83] died, message: 'Villager hit the ground too hard'
+[16:33:20] [Server thread/INFO]: Villager class_1646['Villager'/32091, l='ServerLevel[world]', x=-311.86, y=70.00, z=-301.50] died, message: 'Villager was slain by Zombie'
+[17:15:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/39711, l='ServerLevel[world]', x=-256.85, y=166.51, z=-305.93]
+[17:15:27] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/39716, l='ServerLevel[world]', x=-256.85, y=166.51, z=-305.93]
+[17:15:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/39719, l='ServerLevel[world]', x=-256.98, y=166.51, z=-305.76]
+[17:15:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/39727, l='ServerLevel[world]', x=-257.39, y=166.51, z=-305.61]
+[17:19:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/40510, l='ServerLevel[world]', x=-257.38, y=167.32, z=-307.70]
+[17:19:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/40520, l='ServerLevel[world]', x=-257.38, y=167.32, z=-307.70]
+[17:19:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/40529, l='ServerLevel[world]', x=-257.38, y=167.32, z=-307.70]
+[17:19:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/40542, l='ServerLevel[world]', x=-257.38, y=167.32, z=-307.70]
+[17:19:52] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/40628, l='ServerLevel[world]', x=-257.49, y=167.32, z=-305.72]
+[17:19:53] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/40652, l='ServerLevel[world]', x=-257.49, y=167.32, z=-305.72]
+[17:20:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/40859, l='ServerLevel[world]', x=-256.23, y=166.51, z=-307.33]
+[17:21:35] [Server thread/INFO]: breederbot[local] logged in with entity id 41208 at (-191.02598475859526, 70.0, -319.6956136933921)
+[17:21:35] [Server thread/INFO]: breederbot joined the game
+[17:21:38] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/41218, l='ServerLevel[world]', x=-257.85, y=166.51, z=-305.59]
+[17:21:38] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/41218, l='ServerLevel[world]', x=-257.85, y=166.51, z=-305.59]
+[17:22:06] [Server thread/INFO]: larryzhang lost connection: Disconnected
+[17:22:06] [Server thread/INFO]: larryzhang left the game
+[17:22:09] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/41384, l='ServerLevel[world]', x=-256.63, y=167.32, z=-306.17]
+[17:22:10] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/41389, l='ServerLevel[world]', x=-256.49, y=167.32, z=-306.08]
+[17:22:10] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/41394, l='ServerLevel[world]', x=-256.49, y=167.32, z=-306.08]
+[17:22:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/41403, l='ServerLevel[world]', x=-256.49, y=167.32, z=-306.08]
+[17:22:12] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/41408, l='ServerLevel[world]', x=-256.49, y=167.32, z=-306.08]
+[17:22:19] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/41413, l='ServerLevel[world]', x=-257.31, y=167.32, z=-306.70]
+[17:22:20] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/41418, l='ServerLevel[world]', x=-257.31, y=167.32, z=-306.70]
+[17:22:20] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/41423, l='ServerLevel[world]', x=-257.31, y=167.32, z=-306.70]
+[17:22:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/41428, l='ServerLevel[world]', x=-257.31, y=167.32, z=-306.70]
+[17:22:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/41433, l='ServerLevel[world]', x=-257.31, y=167.32, z=-306.70]
+[17:31:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/42207, l='ServerLevel[world]', x=-128.48, y=70.00, z=-368.12]
+[17:34:43] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/42637, l='ServerLevel[world]', x=-257.37, y=167.32, z=-305.36]
+[17:34:44] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/42647, l='ServerLevel[world]', x=-257.27, y=167.32, z=-307.48]
+[17:34:44] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/42650, l='ServerLevel[world]', x=-257.27, y=167.32, z=-307.48]
+[17:34:44] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/42653, l='ServerLevel[world]', x=-257.37, y=167.32, z=-305.34]
+[17:34:45] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/42661, l='ServerLevel[world]', x=-257.37, y=167.32, z=-305.34]
+[17:34:45] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/42666, l='ServerLevel[world]', x=-257.27, y=167.32, z=-307.48]
+[17:34:45] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/42672, l='ServerLevel[world]', x=-257.27, y=167.32, z=-307.48]
+[17:34:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/42699, l='ServerLevel[world]', x=-257.27, y=167.32, z=-307.48]
+[17:34:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/42714, l='ServerLevel[world]', x=-257.27, y=167.32, z=-307.48]
+[17:35:05] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/42736, l='ServerLevel[world]', x=-257.15, y=167.32, z=-305.83]
+[17:35:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/42739, l='ServerLevel[world]', x=-257.21, y=167.32, z=-306.77]
+[17:35:07] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/42743, l='ServerLevel[world]', x=-257.15, y=167.32, z=-305.83]
+[17:48:35] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/44141, l='ServerLevel[world]', x=-129.20, y=70.00, z=-369.70]
+[18:02:10] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/45654, l='ServerLevel[world]', x=-257.62, y=167.32, z=-305.46]
+[18:02:12] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/45660, l='ServerLevel[world]', x=-257.70, y=167.32, z=-305.50]
+[18:10:51] [Server thread/INFO]: larryzhang[/24.90.203.143:52853] logged in with entity id 46316 at (-93.69888963085252, 71.0, -208.92497784638346)
+[18:10:51] [Server thread/INFO]: larryzhang joined the game
+[18:10:52] [Netty Epoll Server IO #0/INFO]: Player larryzhang joined with a matching carpet client
+[18:13:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/46932, l='ServerLevel[world]', x=-256.69, y=167.32, z=-306.64]
+[18:15:18] [Server thread/INFO]: larryzhang lost connection: Disconnected
+[18:15:18] [Server thread/INFO]: larryzhang left the game
+[18:25:03] [Server thread/INFO]: larryzhang[/24.90.203.143:53526] logged in with entity id 48426 at (-96.68690302001792, 63.0, -54.7840778456687)
+[18:25:03] [Server thread/INFO]: larryzhang joined the game
+[18:25:04] [Netty Epoll Server IO #3/INFO]: Player larryzhang joined with a matching carpet client
+[18:34:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/50432, l='ServerLevel[world]', x=-257.70, y=167.32, z=-306.57]
+[18:34:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/50450, l='ServerLevel[world]', x=-257.70, y=167.32, z=-306.60]
+[18:34:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/50457, l='ServerLevel[world]', x=-257.70, y=167.32, z=-306.70]
+[19:28:14] [Server thread/INFO]: breederbot was slain by Phantom
+[19:28:14] [Server thread/INFO]: breederbot lost connection: Killed
+[19:28:14] [Server thread/INFO]: breederbot left the game
+[19:32:26] [Server thread/INFO]: breederbot[local] logged in with entity id 61021 at (-189.8144421325572, 70.0, -319.507586591101)
+[19:32:26] [Server thread/INFO]: breederbot joined the game
+[19:50:37] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/64416, l='ServerLevel[world]', x=-129.88, y=70.00, z=-369.80]
+[19:57:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/66014, l='ServerLevel[world]', x=-256.30, y=167.32, z=-306.47]
+[19:57:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/66026, l='ServerLevel[world]', x=-256.30, y=167.32, z=-306.50]
+[19:57:32] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/66037, l='ServerLevel[world]', x=-256.30, y=167.32, z=-306.65]
+[20:04:29] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/67634, l='ServerLevel[world]', x=-256.52, y=167.32, z=-305.30]
+[20:04:30] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/67639, l='ServerLevel[world]', x=-256.56, y=167.32, z=-305.30]
+[20:04:39] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/67693, l='ServerLevel[world]', x=-256.91, y=167.32, z=-307.70]
+[20:10:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/69098, l='ServerLevel[world]', x=-130.80, y=70.00, z=-369.80]
+[20:12:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/69466, l='ServerLevel[world]', x=-256.87, y=167.32, z=-307.70]
+[20:34:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/73051, l='ServerLevel[world]', x=-256.30, y=167.32, z=-306.56]
+[20:34:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/73051, l='ServerLevel[world]', x=-256.30, y=167.32, z=-306.56]
+[20:34:54] [Server thread/INFO]: larryzhang lost connection: Disconnected
+[20:34:54] [Server thread/INFO]: larryzhang left the game
