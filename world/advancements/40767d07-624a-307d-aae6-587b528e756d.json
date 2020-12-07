@@ -329,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2020-12-07 17:13:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2020-12-01 23:38:51 +0000"
@@ -567,7 +573,8 @@
       "minecraft:silverfish": "2020-12-01 14:39:33 +0000",
       "minecraft:enderman": "2020-12-03 02:21:34 +0000",
       "minecraft:zombie": "2020-12-01 15:49:32 +0000",
-      "minecraft:drowned": "2020-12-03 19:36:28 +0000"
+      "minecraft:drowned": "2020-12-03 19:36:28 +0000",
+      "minecraft:zombie_villager": "2020-12-07 17:42:27 +0000"
     },
     "done": false
   },
@@ -796,6 +803,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2020-12-03 19:36:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2020-12-07 17:13:18 +0000"
     },
     "done": true
   },
@@ -1432,6 +1445,12 @@
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2020-12-01 23:26:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2020-12-07 17:13:30 +0000"
     },
     "done": true
   },
