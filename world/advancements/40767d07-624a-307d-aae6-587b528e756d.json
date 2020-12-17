@@ -497,6 +497,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2020-12-14 01:58:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2020-12-01 16:50:35 +0000"
@@ -658,6 +664,7 @@
       "minecraft:pillager": "2020-12-05 03:37:11 +0000",
       "minecraft:blaze": "2020-12-11 18:13:35 +0000",
       "minecraft:skeleton": "2020-12-01 20:08:34 +0000",
+      "minecraft:ghast": "2020-12-14 01:58:26 +0000",
       "minecraft:hoglin": "2020-12-02 00:55:09 +0000",
       "minecraft:spider": "2020-12-01 16:47:16 +0000",
       "minecraft:creeper": "2020-12-02 16:39:55 +0000",
@@ -1765,6 +1772,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_netherbrick": "2020-12-14 02:12:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_red_mushroom": "2020-12-05 17:54:17 +0000"
@@ -2825,6 +2838,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_block": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2020-12-14 02:12:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2020-12-02 02:25:55 +0000"
@@ -2936,6 +2955,12 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-12-01 15:11:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_rod": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2020-12-14 02:12:28 +0000"
     },
     "done": true
   },
