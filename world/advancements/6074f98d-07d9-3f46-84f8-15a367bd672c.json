@@ -81,6 +81,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2020-12-23 14:59:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2020-12-11 16:07:46 +0000"
@@ -233,6 +239,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_cod": "2020-12-23 15:02:06 +0000",
       "salmon": "2020-12-12 01:53:06 +0000",
       "cod": "2020-12-11 20:28:41 +0000"
     },
