@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2021-01-05 02:14:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2020-12-05 00:22:59 +0000"
@@ -404,6 +410,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2020-11-28 21:43:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2020-12-29 03:52:44 +0000"
     },
     "done": true
   },
@@ -677,6 +689,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2020-12-29 03:22:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-11-28 21:42:40 +0000"
@@ -805,6 +823,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2021-01-05 02:14:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_red_flower": "2020-12-03 03:45:03 +0000"
@@ -889,6 +913,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_blasting": {
+    "criteria": {
+      "has_coal_ore": "2020-12-29 02:50:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2020-12-11 18:22:59 +0000"
@@ -958,6 +988,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2020-12-11 18:13:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2020-12-29 03:22:07 +0000"
     },
     "done": true
   },
@@ -1042,6 +1078,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2020-12-02 03:37:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2020-12-28 20:45:59 +0000"
     },
     "done": true
   },
@@ -1138,6 +1180,12 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2020-12-11 18:11:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2020-12-28 20:45:59 +0000"
     },
     "done": true
   },
@@ -1360,7 +1408,9 @@
       "minecraft:desert_hills": "2020-12-05 04:27:56 +0000",
       "minecraft:taiga_hills": "2020-12-03 22:29:03 +0000",
       "minecraft:desert": "2020-12-05 04:24:18 +0000",
+      "minecraft:jungle": "2021-01-05 02:03:23 +0000",
       "minecraft:birch_forest": "2020-12-01 18:49:34 +0000",
+      "minecraft:bamboo_jungle": "2021-01-05 02:10:46 +0000",
       "minecraft:warm_ocean": "2020-12-07 02:09:09 +0000",
       "minecraft:deep_lukewarm_ocean": "2020-12-07 02:10:17 +0000",
       "minecraft:beach": "2020-12-03 18:48:29 +0000",
@@ -1568,6 +1618,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2021-01-02 02:54:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2020-12-01 23:25:32 +0000",
@@ -1582,9 +1638,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2021-01-05 02:13:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_boots": "2020-12-02 00:53:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting": {
+    "criteria": {
+      "has_diamond_ore": "2021-01-01 23:16:50 +0000"
     },
     "done": true
   },
@@ -1645,6 +1713,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2020-12-01 14:28:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2021-01-05 02:13:47 +0000"
     },
     "done": true
   },
@@ -1967,6 +2041,7 @@
       "cooked_beef": "2020-12-02 00:53:04 +0000",
       "chorus_fruit": "2020-12-11 19:48:03 +0000",
       "apple": "2020-12-07 03:32:26 +0000",
+      "cooked_cod": "2020-12-29 23:13:37 +0000",
       "bread": "2020-12-02 17:12:38 +0000",
       "salmon": "2020-12-03 22:47:56 +0000",
       "golden_carrot": "2020-12-11 18:24:29 +0000",
@@ -1982,6 +2057,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2020-12-29 03:22:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2020-12-17 20:28:49 +0000"
@@ -1991,6 +2072,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2020-12-01 16:46:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2020-12-29 03:22:07 +0000"
     },
     "done": true
   },
@@ -2345,6 +2432,12 @@
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2020-12-01 23:35:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting": {
+    "criteria": {
+      "has_diamond_ore": "2021-01-01 23:16:50 +0000"
     },
     "done": true
   },
@@ -2726,6 +2819,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2021-01-02 02:54:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2020-12-01 15:05:43 +0000"
@@ -2828,9 +2927,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_smelting": {
+    "criteria": {
+      "has_coal_ore": "2020-12-29 02:50:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-12-01 15:49:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_jungle_planks": "2020-12-29 03:22:07 +0000"
     },
     "done": true
   },
@@ -2951,6 +3062,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2020-12-11 18:13:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2020-12-29 03:22:07 +0000"
     },
     "done": true
   },
@@ -3128,6 +3245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2020-12-29 03:22:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_bricks": {
     "criteria": {
       "has_end_stone": "2020-12-11 19:31:44 +0000"
@@ -3182,6 +3305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2020-12-29 03:22:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_brick": "2020-12-11 18:08:45 +0000"
@@ -3215,6 +3344,12 @@
   "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
       "has_warped_fungus": "2020-12-03 22:51:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-12-29 03:22:07 +0000"
     },
     "done": true
   },
@@ -3293,6 +3428,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2020-12-01 16:46:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2021-01-05 02:14:14 +0000"
     },
     "done": true
   },

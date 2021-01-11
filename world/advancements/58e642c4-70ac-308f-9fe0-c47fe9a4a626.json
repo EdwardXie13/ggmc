@@ -1994,7 +1994,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2020-12-07 22:51:45 +0000"
+      "minecraft:crimson_forest": "2020-12-07 22:51:45 +0000",
+      "minecraft:nether_wastes": "2021-01-02 05:33:34 +0000"
     },
     "done": false
   },
